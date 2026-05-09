@@ -1,0 +1,177 @@
+- project-id: connecta-moveis-website
+  title: Connecta Moveis Website
+  short-title: Connecta Moveis
+  year: 2026
+  summary: 'Developed an end-to-end web system for a corporate furniture catalog, including an administrative panel, product management workflows, and deployment to a production hosting environment.'
+  bullets:
+    - 'Gathered and organized requirements, and created use cases to guide implementation throughout the project lifecycle.'
+    - 'Built the system using PHP, HTML, CSS, and remote MySQL, covering authentication, session management, access control, and CRUD operations for furniture, categories, and images.'
+    - 'Implemented imae upload workflows with automatic WebP conversion and size standardization to support catalog consistency and performance.'
+    - 'Structured the local development environment with Docker and handled deployment to Hostinger through SSH and GitHub.'
+    - 'Produced internal documentation for deployment, website setup, remote MySQL configuration, and external access.'
+    - 'Managed tasks through Kanban boards in Notion and aligned requirements through communication with management and the client.'
+  skills:
+    - php
+    - html
+    - css
+    - mysql
+    - docker
+    - git
+    - github
+    - requirements-analysis
+    - use-case-modeling
+    - authentication
+    - role-based-access-control
+    - deployment
+    - ssh
+    - responsive-web-design
+    - web-design
+    - technical-documentation
+
+- project-id: traje-fino-website
+  title: Traje Fino Website
+  short-title: Traje Fino
+  year: 2026
+  summary: 'Developed a commercial landing page for suit rentals with interactive product recommendation logic and deployment to a production shared hosting environment.'
+  bullets:
+    - 'Built the landing page using HTML, CSS, and JavaScript with a commercial layout focused on presenting suit rental options clearly.'
+    - 'Implemented front-end logic to display matching ties, shoes, and belts based on the style and color of the selected suit.'
+    - 'Managed version control with Git and GitHub throughout the project lifecycle.'
+    - 'Deployed the website to Hostinger shared hosting using SSH key-based access and GitHub.'
+  skills:
+    - html
+    - css
+    - javascript
+    - frontend-development
+    - ui-development
+    - git
+    - github
+    - deployment
+    - ssh
+
+- project-id: track-day-wordpress
+  title: Track Day WordPress Landing Page
+  short-title: Track Day Landing Page
+  year: 2026
+  summary: 'Redesigned and rebuilt a WordPress page for a motorcycle riding course, covering content strategy, visual direction, and page implementation.'
+  bullets:
+    - 'Redesigned the Track Day page for a motorcycle riding course website with a new visual concept tailored to the event and its audience.'
+    - 'Rewrote the page copy to improve message clarity, positioning, and commercial presentation.'
+    - 'Selected and organized image assets to support the new communication strategy and page layout.'
+    - 'Implemented the new page in WordPress, translating the proposed structure and design direction into a publishable web experience.'
+  skills:
+    - wordpress
+    - ui-development
+    - web-design
+
+- project-id: legal-automation
+  title: Legal Automation for Law Firms
+  short-title: Legal Automation
+  year: 2025
+  summary: I developed a legal automation system that transformed case updates into humanized communications with clients, automated reminders and billing notifications, as well as providing chatbot support via WhatsApp.
+  bullets:
+    - Built an ecosystem of n8n workflows integrating Google Sheets, Supabase, OpenAI, and WhatsApp via Z-API to automate communication between a legal office and its clients.
+    - Implemented automated reading and classification of case progress events to trigger context-aware legal messages and operational actions.
+    - Developed AI-assisted message generation to produce humanized legal updates, reminders for expert examinations, and billing notifications.
+    - Created WhatsApp-based administrative commands and a legal chatbot with memory to support ongoing client interaction and internal operations.
+    - Structured persistent data storage in Supabase and PostgreSQL to support workflow state, message history, and operational control.
+  skills:
+    - n8n
+    - workflow-automation
+    - artificial-intelligence
+    - openai
+    - supabase
+    - postgresql
+    - google-sheets
+    - whatsapp-api
+    - javascript
+    - webhooks
+    - chatbot-development
+    - api-integration
+
+- project-id: onedrive-pdf-data-extractor
+  title: Automação Python para Extração de Dados Documentais no OneDrive
+  short-title: OneDrive PDF Extractor
+  year: 2024
+  summary: Projeto desenvolvido em Python para automatizar a leitura de arquivos específicos armazenados em uma conta corporativa do OneDrive. 
+  bullets:
+    - Integration with Microsoft Graph API to access corporate files and folders on OneDrive.
+    - Authentication with MSAL to obtain an access token and securely consume the Microsoft API.
+    - Automated navigation through shared company folder structures.
+    - Reading and filtering of client folders based on business rules.
+    - Automatic download of specific PDFs, such as forms and procedural documents.
+    - Extraction of structured data from PDFs using pdfplumber.
+    - Identification of receipt numbers, addresses, and personal information in official documents.
+    - Handling of accented and varied filenames using unicodedata and regex.
+    - Pagination of Microsoft Graph API results with support for @odata.nextLink.
+    - Organization of extracted data in a Client class with multiple associated processes.
+    - Use of environment variables to separate development and production configurations.
+    - Reduction of manual work in checking and collecting information from corporate documents
+  skills:
+    - python
+    - microsoft-graph-api
+    - onedrive
+    - msal
+    - oauth
+    - api-integration
+    - git
+    - gitlab
+    - pdf-parsing
+    - pdfplumber
+    - requests
+    - regex
+    - process-automation
+    - document-automation
+    - data-extraction
+
+- project-id: pipedrive-crm-learnig-documentation
+  title: Pipedrive CRM Learning Documentation
+  short-title: Pipedrive CRM Docs
+  year: 2024
+  summary: Created structured learning documentation about Pipedrive CRM, covering core
+    concepts, sales pipeline management, contacts, leads, deals, activities,
+    email synchronization, account configuration, and sales insights. The
+    documentation was organized to support practical understanding of CRM
+    workflows and how Pipedrive can be used to manage sales processes from lead
+    capture to deal closing.
+  bullets:
+    - Documented the main Pipedrive CRM entities, including contacts, organizations, leads, deals, activities, products, and insights.
+    - Explained how sales pipelines work, including deal probability, stage probability, rotting deals, list view, and forecast view.
+    - Mapped the deal management workflow, covering detailed views, sidebars, communication history, notes, activities, documents, invoices, and focus sections.
+    - Organized guidance on contact management, including people, organizations, contact synchronization, filters, and timeline usage.
+    - Documented lead management features such as lead inbox, lead conversion, LeadBooster, chatbot, live chat, and prospector tools.
+    - Explained Pipedrive email management features, including Smart BCC, full email sync, sales inbox, email templates, tracking, group emails, signatures, and sharing settings.
+    - Covered activity and calendar management, including calendar synchronization, activity scheduling, pipeline activity prioritization, and meeting scheduler usage.
+    - Structured account setup topics such as company account settings, user permissions, personal preferences, data import/export, custom fields, and security tracking.
+    - Summarized sales reporting concepts in Pipedrive Insights, including reports, goals, dashboards, lead reports, deal reports, and performance metrics.
+  skills:
+    - pipedrive-crm
+    - sales-pipeline-management
+    - lead-management
+    - deal-management
+    - business-process-mapping
+    - technical-writing
+    - process-analysis
+
+- project-id: vilela-properties
+  title: Vilela Properties Real Estate Website
+  short-title: Vilela Properties
+  year: 2023
+  summary: 'Implemented the front-end for a real estate web system, covering core user-facing pages such as contact, login, and property browsing with a responsive and functional interface.'
+  bullets:
+    - 'Built front-end pages for a real estate platform, including contact, login, and property viewing flows.'
+    - 'Developed responsive interfaces using fimage-processing, CSS, JavaScript, and Bootstrap to ensure consistent usability across devices.'
+    - 'Structured the visual layer of the system to support clear navigation and a functional browsing experience for property listings.'
+  links:
+    - label: Github Repository
+      icon: 'mdi:github'
+      url: 'https://github.com/fpvilela/vilela-properties'
+  skills:
+    - html
+    - css
+    - javascript
+    - bootstrap
+    - frontend-development
+    - responsive-web-design
+    - web-design
+    - ui-development

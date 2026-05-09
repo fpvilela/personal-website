@@ -1,0 +1,45 @@
+- title: Full-stack Developer
+  company: ROSH Tecnologia
+  date-of-employment: 03/2026 - 05/2026
+  roles:
+    - full-stack-developer
+    - frontend-developer
+    - systems-analyst
+    - deployment-specialist
+    - wordpress-developer
+  projects:
+    - connecta-moveis-website
+    - traje-fino-website
+    - track-day-wordpress
+
+- title: n8n Developer
+  company: self-employed
+  date-of-employment: 12/2025 - 02/2026
+  roles:
+    - workflow-automation-developer
+    - ai-automation-developer
+    - chatbot-developer
+    - api-integration-specialist
+  projects:
+    - legal-automation
+
+- title: Back-end Developer
+  company: Seu Visto Certo
+  date-of-employment: 12/2023 - 11/2025
+  roles:
+    - backend-developer
+    - workflow-automation-developer
+    - api-integration-specialist
+    - document-automation-developer
+    - technical-documentation-specialist
+  projects:
+    - onedrive-pdf-data-extractor
+    - pipedrive-crm-learnig-documentation
+
+- title: Front-end Developer
+  company: self-employed
+  date-of-employment: 01/2023 - 06/2023
+  roles:
+    - frontend-developer
+  projects:
+    - vilela-properties

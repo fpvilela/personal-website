@@ -1,0 +1,15 @@
+css-course:
+  title: 'CSS - The Complete Guide'
+  description: 'Complete CSS course covering styling fundamentals, box model, selectors, positioning, backgrounds, responsiveness, Flexbox, Grid, animations, cross-browser compatibility, BEM, and an introduction to Sass.'
+  links:
+    - label: 'Course tracking repository'
+      icon: 'mdi:github'
+      url: 'https://github.com/fpvilela/css-complete-guide'
+
+javascript-course:
+  title: 'JavaScript - The Complete Guide (Beginner + Advanced)'
+  description: 'Curso completo de JavaScript abordando desde fundamentos da linguagem até recursos avançados, incluindo variáveis, funções, objetos, arrays, DOM, eventos, programação assíncrona, requisições HTTP, orientação a objetos, testes, segurança, performance e deploy.'
+  links:
+    - label: 'Course tracking repository'
+      icon: 'mdi:github'
+      url: 'https://github.com/fpvilela/js-complete-guide'
