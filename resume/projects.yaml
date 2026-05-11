@@ -90,10 +90,10 @@
     - api-integration
 
 - project-id: onedrive-pdf-data-extractor
-  title: Automação Python para Extração de Dados Documentais no OneDrive
+  title: Python Automation for Document Data Extraction in OneDrive
   short-title: OneDrive PDF Extractor
   year: 2024
-  summary: Projeto desenvolvido em Python para automatizar a leitura de arquivos específicos armazenados em uma conta corporativa do OneDrive. 
+  summary: Project developed in Python to automate the reading of specific files stored in a corporate OneDrive account. 
   bullets:
     - Integration with Microsoft Graph API to access corporate files and folders on OneDrive.
     - Authentication with MSAL to obtain an access token and securely consume the Microsoft API.
