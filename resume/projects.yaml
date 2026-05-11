@@ -89,6 +89,30 @@
     - chatbot-development
     - api-integration
 
+- project-id: youtube-channel
+  title: Programming Learning YouTube Channel
+  short-title: YouTube Programming Channel
+  year: 2024
+  summary: Created a YouTube channel to document my programming learning journey through educational videos in English, covering practical CSS and JavaScript concepts while demonstrating technical communication and intermediate English proficiency.
+  bullets:
+    - Produced educational programming videos focused on practical front-end development topics, including CSS layout, styling, selectors, transforms, variables, DOM manipulation, JavaScript functions, events, arrays, objects, and conditional logic.
+    - Documented my learning process by turning study topics into short technical explanations, reinforcing both programming knowledge and the ability to explain concepts clearly.
+    - Recorded the videos in English to practice technical communication and demonstrate intermediate English proficiency in a programming context.
+    - Created complementary learning content by connecting some videos to written articles and GitHub-based study notes.
+    - Used the channel as a public portfolio asset to show consistency in learning, communication skills, and hands-on experience with HTML, CSS, and JavaScript fundamentals.
+  skills:
+    - html
+    - css
+    - javascript
+    - frontend-development
+    - dom-manipulation
+    - technical-communication
+    - english-communication
+    - content-creation
+    - programming-education
+    - self-directed-learning
+    - github
+
 - project-id: onedrive-pdf-data-extractor
   title: Python Automation for Document Data Extraction in OneDrive
   short-title: OneDrive PDF Extractor
