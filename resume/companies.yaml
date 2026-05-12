@@ -1,27 +1,27 @@
-rosh:
-  company: ROSH Tecnologia
-  tags:
-    - full-stack-development
-    - web-development
-    - mysql
-    - docker
-    - kanban
-    - ai-assisted-development
-  url: 'https://roshtecnologia.com.br/'
-  location: Brasília, DF, Brasil
+  - id: rosh
+    company: ROSH Tecnologia
+    tags:
+      - full-stack-development
+      - web-development
+      - mysql
+      - docker
+      - kanban
+      - ai-assisted-development
+    url: 'https://roshtecnologia.com.br/'
+    location: Brasília, DF, Brasil
 
-vistocerto:
-  company: Seu Visto Certo
-  tags:
-    - process-automation
-    - workflow-automation
-    - api-integration
-    - webhook-integration
-    - pipedrive-crm
-    - zapier
-    - python
-    - google-sheets-automation
-    - data-organization
-    - operational-efficiency
-  url: 'https://seuvistocerto.com/'
-  location: Willon Partk, TX, US
+  - id: vistocerto
+    company: Seu Visto Certo
+    tags:
+      - process-automation
+      - workflow-automation
+      - api-integration
+      - webhook-integration
+      - pipedrive-crm
+      - zapier
+      - python
+      - google-sheets-automation
+      - data-organization
+      - operational-efficiency
+    url: 'https://seuvistocerto.com/'
+    location: Willon Partk, TX, US
