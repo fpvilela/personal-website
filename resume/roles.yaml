@@ -1,4 +1,4 @@
-- role-id: ai-automation-developer
+- id: ai-automation-developer
   title: AI Automation Developer
   description:
     - 'Design AI-assisted automations that transform operational events into contextual actions and humanized communications.'
@@ -6,7 +6,7 @@
     - 'Structure prompts, memory, and decision logic for assistants, chatbots, and automated messaging flows.'
     - 'Translate business routines into reliable automations that reduce manual follow-up and improve service consistency.'
 
-- role-id: api-integration-specialist:
+- id: api-integration-specialist:
   title: API Integration Specialist
   description:
     - 'Integrate third-party APIs and internal systems to enable secure and dependable data exchange across products and workflows.'
@@ -14,7 +14,7 @@
     - 'Diagnose integration issues, adapt systems to external platform constraints, and maintain stable communication between connected services.'
     - 'Build backend and automation flows that turn fragmented tools into cohesive operational systems.'
 
-- role-id: backend-developer:
+- id: backend-developer:
   title: Back-end Developer
   description:
     - 'Develop backend solutions that process business data, enforce application rules, and support operational workflows.'
@@ -30,7 +30,7 @@
     - 'Integrate chat experiences with WhatsApp, workflow automations, and backend data sources to keep conversations actionable.'
     - 'Refine conversation behavior to improve clarity, responsiveness, and trust in automated communication.'
 
-- role-id: deployment-specialist:
+- id: deployment-specialist:
   title: Deployment Specialist
   description:
     - 'Prepare applications for production by organizing environments, deployment routines, and release procedures.'
@@ -38,7 +38,7 @@
     - 'Configure infrastructure details such as remote access, application setup, asset delivery, and production updates.'
     - 'Document deployment processes to support repeatable releases and reduce operational friction.'
 
-- role-id: document-automation-developer:
+- id: document-automation-developer:
   title: Document Automation Developer
   description:
     - 'Create automations that read, organize, and extract structured information from business documents at scale.'
@@ -46,7 +46,7 @@
     - 'Apply business rules to classify documents, identify key fields, and connect extracted information to downstream processes.'
     - 'Reduce manual handling of repetitive document tasks through reliable backend automation.'
 
-- role-id: frontend-developer:
+- id: frontend-developer:
   title: Front-end Developer
   description:
     - 'Build user-facing web interfaces that present information clearly and support responsive interaction across devices.'
@@ -54,7 +54,7 @@
     - 'Translate business goals into accessible layouts, browsing flows, and presentation logic for catalog, property, and landing page experiences.'
     - 'Collaborate with stakeholders to improve usability, interface structure, and content presentation.'
 
-- role-id: full-stack-developer:
+- id: full-stack-developer:
   title: Full-stack Developer
   description:
     - 'Develop complete web solutions spanning frontend interfaces, backend logic, data handling, and deployment workflows.'
@@ -62,7 +62,7 @@
     - 'Coordinate technical decisions from requirements analysis through production delivery, keeping the system coherent end to end.'
     - 'Bridge product needs and implementation details to turn business requirements into working software.'
 
-- role-id: systems-analyst:
+- id: systems-analyst:
   title: Systems Analyst
   description:
     - 'Analyze business requirements and translate them into structured system behavior, workflows, and implementation priorities.'
@@ -70,7 +70,7 @@
     - 'Organize project information, clarify stakeholder needs, and align technical execution with business objectives.'
     - 'Support delivery by turning loosely defined requests into practical system specifications.'
 
-- role-id: technical-documentation-specialist:
+- id: technical-documentation-specialist:
   title: Technical Documentation Specialist
   description:
     - 'Produce structured documentation that explains systems, tools, workflows, and setup processes with clarity and practical detail.'
@@ -78,7 +78,7 @@
     - 'Organize complex information into accessible guides covering CRM concepts, infrastructure setup, and business procedures.'
     - 'Maintain documentation as a working asset that improves knowledge transfer and reduces dependency on informal support.'
 
-- role-id: wordpress-developer:
+- id: wordpress-developer:
   title: WordPress Developer
   description:
     - 'Develop and adapt WordPress pages to support business communication, campaigns, and landing page experiences.'
@@ -86,7 +86,7 @@
     - 'Refine copy presentation, asset usage, and page composition to improve clarity and commercial impact.'
     - 'Deliver WordPress solutions that balance content management practicality with tailored presentation.'
 
-- role-id: workflow-automation-developer:
+- id: workflow-automation-developer:
   title: Workflow Automation Developer
   description:
     - 'Design and implement automated workflows that connect systems, trigger business actions, and reduce repetitive manual work.'

@@ -1,353 +1,353 @@
-- skill-id: api-integration
+- id: api-integration
   label: API Integration
   since-year: 2024
   competency: advanced
 
-- skill-id: artificial-intelligence
+- id: artificial-intelligence
   label: Artificial Intelligence
   since-year: 2025
   competency: advanced
 
-- skill-id: authentication
+- id: authentication
   label: Authentication
   since-year: 2024
   competency: experienced
 
-- skill-id: bootstrap
+- id: bootstrap
   label: Bootstrap
   since-year: 2023
   competency: experienced
 
-- skill-id: business-process-mapping
+- id: business-process-mapping
   label: Business Process Mapping
   since-year: 2024
   competency: experienced
 
-- skill-id: chatbot-development
+- id: chatbot-development
   label: Chatbot Development
   since-year: 2025
   competency: experienced
 
-- skill-id: css
+- id: css
   label: CSS
   since-year: 2023
   competency: experienced
 
-- skill-id: data-extraction
+- id: data-extraction
   label: Data Extraction
   since-year: 2024
   competency: advanced
 
-- skill-id: deal-management
+- id: deal-management
   label: Deal Management
   since-year: 2024
   competency: experienced
 
-- skill-id: deployment
+- id: deployment
   label: Deployment
   since-year: 2026
   competency: advanced
 
-- skill-id: docker
+- id: docker
   label: Docker
   since-year: 2026
   competency: experienced
 
-- skill-id: document-automation
+- id: document-automation
   label: Document Automation
   since-year: 2024
   competency: advanced
 
-- skill-id: git
+- id: git
   label: Git
   since-year: 2023
   competency: expert
 
-- skill-id: github
+- id: github
   label: GitHub
   since-year: 2023
   competency: expert
 
-- skill-id: gitlab
+- id: gitlab
   label: GitLab
   since-year: 2024
   competency: advanced
 
-- skill-id: google-sheets
+- id: google-sheets
   label: Google Sheets
   since-year: 2025
   competency: advanced
 
-- skill-id: html
+- id: html
   label: HTML
   since-year: 2023
   competency: experienced
 
-- skill-id: javascript
+- id: javascript
   label: JavaScript
   since-year: 2023
   competency: experienced
 
-- skill-id: lead-management
+- id: lead-management
   label: Lead Management
   since-year: 2024
   competency: experienced
 
-- skill-id: microsoft-graph-api
+- id: microsoft-graph-api
   label: Microsoft Graph API
   since-year: 2024
   competency: experienced
 
-- skill-id: msal
+- id: msal
   label: Microsoft Authentication Library (MSAL)
   since-year: 2024
   competency: experienced
 
-- skill-id: mysql
+- id: mysql
   label: MySQL / MariaDB
   since-year: 2023
   competency: experienced
 
-- skill-id: n8n
+- id: n8n
   label: n8n
   since-year: 2025
   competency: advanced
 
-- skill-id: oauth
+- id: oauth
   label: OAuth
   since-year: 2024
   competency: experienced
 
-- skill-id: onedrive
+- id: onedrive
   label: OneDrive
   since-year: 2024
   competency: experienced
 
-- skill-id: openai
+- id: openai
   label: OpenAI API
   since-year: 2025
   competency: advanced
 
-- skill-id: pdf-parsing
+- id: pdf-parsing
   label: PDF Parsing
   since-year: 2024
   competency: experienced
 
-- skill-id: pdfplumber
+- id: pdfplumber
   label: pdfplumber
   since-year: 2024
   competency: experienced
 
-- skill-id: php
+- id: php
   label: PHP
   since-year: 2026
   competency: experienced
 
-- skill-id: pipedrive-crm
+- id: pipedrive-crm
   label: Pipedrive CRM
   since-year: 2024
   competency: advanced
 
-- skill-id: postgresql
+- id: postgresql
   label: PostgreSQL
   since-year: 2026
   competency: experienced
 
-- skill-id: process-analysis
+- id: process-analysis
   label: Process Analysis
   since-year: 2026
   competency: advanced
 
-- skill-id: process-automation
+- id: process-automation
   label: Process Automation
   since-year: 2024
   competency: advanced
 
-- skill-id: python
+- id: python
   label: Python
   since-year: 2024
   competency: experienced
-- skill-id: regex
+- id: regex
   label: Regular Expressions
   since-year: 2024
   competency: experienced
 
-- skill-id: requests
+- id: requests
   label: Python Requests
   since-year: 2024
   competency: experienced
 
-- skill-id: requirements-analysis
+- id: requirements-analysis
   label: Requirements Analysis
   since-year: 2026
   competency: experienced
 
-- skill-id: responsive-web-design
+- id: responsive-web-design
   label: Responsive Web Design
   since-year: 2025
   competency: experienced
 
-- skill-id: role-based-access-control
+- id: role-based-access-control
   label: Role-Based Access Control (RBAC)
   since-year: 2026
   competency: experienced
 
-- skill-id: sales-pipeline-management
+- id: sales-pipeline-management
   label: Sales Pipeline Management
   since-year: 2024
   competency: advanced
 
-- skill-id: ssh
+- id: ssh
   label: SSH
   since-year: 2024
   competency: advanced
 
-- skill-id: supabase
+- id: supabase
   label: Supabase
   since-year: 2025
   competency: advanced
 
-- skill-id: technical-documentation
+- id: technical-documentation
   label: Technical Documentation
   since-year: 2024
   competency: experienced
 
-- skill-id: technical-writing
+- id: technical-writing
   label: Technical Writing
   since-year: 2024
   competency: experienced
 
-- skill-id: ui-development
+- id: ui-development
   label: UI Development
   since-year: 2023
   competency: advanced
 
-- skill-id: use-case-modeling
+- id: use-case-modeling
   label: Use Case Modeling
   since-year: 2026
   competency: experienced
 
-- skill-id: web-design
+- id: web-design
   label: Web Design
   since-year: 2023
   competency: advanced
 
-- skill-id: webhooks
+- id: webhooks
   label: Webhooks
   since-year: 2025
   competency: experienced
 
-- skill-id: whatsapp-api
+- id: whatsapp-api
   label: WhatsApp API
   since-year: 2025
   competency: experienced
 
-- skill-id: wordpress
+- id: wordpress
   label: WordPress
   since-year: 2023
   competency: experienced
 
-- skill-id: workflow-automation
+- id: workflow-automation
   label: Workflow Automation
   since-year: 2025
   competency: advanced
 
-- skill-id: ai-ml
+- id: ai-ml
   label: Artificial Intelligence and Machine Learning
   since-year: 2025
   competency: advanced
 
-- skill-id: auth-security
+- id: auth-security
   label: Authentication and Security
   since-year: 2024
   competency: advanced
 
-- skill-id: automation
+- id: automation
   label: Automation
   since-year: 2024
   competency: advanced
 
-- skill-id: backend
+- id: backend
   label: Backend Development
   since-year: 2023
   competency: advanced
 
-- skill-id: business-analysis
+- id: business-analysis
   label: Business Analysis
   since-year: 2024
   competency: experienced
 
-- skill-id: cms
+- id: cms
   label: Content Management Systems (CMS)
   since-year: 2023
   competency: experienced
 
-- skill-id: crm-sales
+- id: crm-sales
   label: CRM and Sales Operations
   since-year: 2024
   competency: advanced
 
-- skill-id: data-analysis-lang
+- id: data-analysis-lang
   label: Languages for Data Analysis and Manipulation
   since-year: 2024
   competency: experienced
 
-- skill-id: data-processing
+- id: data-processing
   label: Data Processing
   since-year: 2024
   competency: advanced
 
-- skill-id: database
+- id: database
   label: Database Management and Storage
   since-year: 2023
   competency: advanced
 
-- skill-id: dev-tools
+- id: dev-tools
   label: Software Development Tools and Methods
   since-year: 2023
   competency: expert
 
-- skill-id: devops-infra
+- id: devops-infra
   label: DevOps and Infrastructure Management
   since-year: 2024
   competency: experienced
 
-- skill-id: documentation
+- id: documentation
   label: Documentation
   since-year: 2024
   competency: advanced
 
-- skill-id: integrations
+- id: integrations
   label: Systems and API Integrations
   since-year: 2024
   competency: advanced
 
-- skill-id: platform
+- id: platform
   label: Platforms and Services
   since-year: 2024
   competency: advanced
 
-- skill-id: product
+- id: product
   label: Product and Requirements
   since-year: 2026
   competency: experienced
 
-- skill-id: productivity
+- id: productivity
   label: Productivity Tools
   since-year: 2025
   competency: advanced
 
-- skill-id: prog-lang
+- id: prog-lang
   label: Programming Language
   since-year: 2023
   competency: advanced
 
-- skill-id: ui-ux
+- id: ui-ux
   label: UI and UX Design
   since-year: 2023
   competency: experienced
 
-- skill-id: webdev
+- id: webdev
   label: Web and Frontend Development
   since-year: 2023
   competency: advanced

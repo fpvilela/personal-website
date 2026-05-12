@@ -1,4 +1,4 @@
-- project-id: connecta-moveis-website
+- id: connecta-moveis-website
   title: Connecta Moveis Website
   short-title: Connecta Moveis
   year: 2026
@@ -38,7 +38,7 @@
     - ui-ux
     - webdev
 
-- project-id: traje-fino-website
+- id: traje-fino-website
   title: Traje Fino Website
   short-title: Traje Fino
   year: 2026
@@ -63,7 +63,7 @@
     - ui-ux
     - webdev
 
-- project-id: track-day-wordpress
+- id: track-day-wordpress
   title: Track Day WordPress Landing Page
   short-title: Track Day Landing Page
   year: 2026
@@ -81,7 +81,7 @@
     - ui-ux
     - webdev
 
-- project-id: legal-automation
+- id: legal-automation
   title: Legal Automation for Law Firms
   short-title: Legal Automation
   year: 2025
@@ -114,7 +114,7 @@
     - platform
     - prog-lang
 
-- project-id: youtube-channel
+- id: youtube-channel
   title: Programming Learning YouTube Channel
   short-title: YouTube Programming Channel
   year: 2024
@@ -135,7 +135,7 @@
     - prog-lang
     - webdev
 
-- project-id: onedrive-pdf-data-extractor
+- id: onedrive-pdf-data-extractor
   title: Python Automation for Document Data Extraction in OneDrive
   short-title: OneDrive PDF Extractor
   year: 2024
@@ -180,7 +180,7 @@
     - platform
     - prog-lang
 
-- project-id: pipedrive-crm-learnig-documentation
+- id: pipedrive-crm-learnig-documentation
   title: Pipedrive CRM Learning Documentation
   short-title: Pipedrive CRM Docs
   year: 2024
@@ -213,7 +213,7 @@
     - documentation
     - platform
 
-- project-id: vilela-properties
+- id: vilela-properties
   title: Vilela Properties Real Estate Website
   short-title: Vilela Properties
   year: 2023
