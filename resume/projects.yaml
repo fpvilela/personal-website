@@ -27,6 +27,16 @@
     - responsive-web-design
     - web-design
     - technical-documentation
+    - auth-security
+    - backend
+    - database
+    - dev-tools
+    - devops-infra
+    - documentation
+    - product
+    - prog-lang
+    - ui-ux
+    - webdev
 
 - project-id: traje-fino-website
   title: Traje Fino Website
@@ -42,12 +52,16 @@
     - html
     - css
     - javascript
-    - frontend-development
     - ui-development
     - git
     - github
     - deployment
     - ssh
+    - dev-tools
+    - devops-infra
+    - prog-lang
+    - ui-ux
+    - webdev
 
 - project-id: track-day-wordpress
   title: Track Day WordPress Landing Page
@@ -63,6 +77,9 @@
     - wordpress
     - ui-development
     - web-design
+    - cms
+    - ui-ux
+    - webdev
 
 - project-id: legal-automation
   title: Legal Automation for Law Firms
@@ -88,6 +105,14 @@
     - webhooks
     - chatbot-development
     - api-integration
+    - ai-ml
+    - automation
+    - backend
+    - data-processing
+    - database
+    - integrations
+    - platform
+    - prog-lang
 
 - project-id: youtube-channel
   title: Programming Learning YouTube Channel
@@ -104,14 +129,11 @@
     - html
     - css
     - javascript
-    - frontend-development
-    - dom-manipulation
-    - technical-communication
-    - english-communication
-    - content-creation
-    - programming-education
-    - self-directed-learning
     - github
+    - dev-tools
+    - documentation
+    - prog-lang
+    - webdev
 
 - project-id: onedrive-pdf-data-extractor
   title: Python Automation for Document Data Extraction in OneDrive
@@ -147,6 +169,16 @@
     - process-automation
     - document-automation
     - data-extraction
+    - auth-security
+    - automation
+    - backend
+    - data-analysis-lang
+    - data-processing
+    - dev-tools
+    - documentation
+    - integrations
+    - platform
+    - prog-lang
 
 - project-id: pipedrive-crm-learnig-documentation
   title: Pipedrive CRM Learning Documentation
@@ -176,6 +208,10 @@
     - business-process-mapping
     - technical-writing
     - process-analysis
+    - business-analysis
+    - crm-sales
+    - documentation
+    - platform
 
 - project-id: vilela-properties
   title: Vilela Properties Real Estate Website
@@ -195,7 +231,9 @@
     - css
     - javascript
     - bootstrap
-    - frontend-development
     - responsive-web-design
     - web-design
     - ui-development
+    - prog-lang
+    - ui-ux
+    - webdev
