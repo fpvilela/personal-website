@@ -75,8 +75,23 @@
 
 - id: google-sheets
   label: Google Sheets
-  since-year: 2025
+  since-year: 2024
   competency: advanced
+
+- id: google-forms
+  label: Google Forms
+  since-year: 2024
+  competency: experienced
+
+- id: google-apps-script
+  label: Google Apps Script
+  since-year: 2024
+  competency: experienced
+
+- id: google-docs
+  label: Google Docs
+  since-year: 2024
+  competency: experienced
 
 - id: html
   label: HTML
@@ -249,7 +264,7 @@
 
 - id: workflow-automation
   label: Workflow Automation
-  since-year: 2025
+  since-year: 2024
   competency: advanced
 
 - id: ai-ml
@@ -334,7 +349,7 @@
 
 - id: productivity
   label: Productivity Tools
-  since-year: 2025
+  since-year: 2024
   competency: advanced
 
 - id: prog-lang

@@ -181,6 +181,33 @@
     - platform
     - prog-lang
 
+- id: sales-information-management-system
+  title: Sales Information Management System
+  short-title: Sales Info System
+  year: 2024
+  summary: 'Developed a structured data management and automation solution for the sales team using Google Forms, Google Sheets, Google Apps Script, and Google Docs to centralize commercial information, automate data collection, improve searchability, and reduce manual work.'
+  bullets:
+    - 'Created a Google Forms workflow to standardize data entry and replace unstructured document-based records with a structured data collection process.'
+    - 'Built a Google Sheets database with dedicated tabs for main records, financial proof details, courses, and searchable school information.'
+    - 'Developed Google Apps Script automations to process form submissions, reorganize submitted data, generate Google Maps links, apply formatting, update timestamps, and maintain filters automatically.'
+    - 'Implemented a search interface in Google Sheets to filter internal data and display relevant results in a dedicated search tab.'
+    - 'Integrated Google Sheets with Google Docs to generate organized, easy-to-read records for the sales team.'
+    - 'Improved information lookup, reduced manual work, and made the data management process more organized and scalable for the sales team'
+  skills:
+    - google-forms
+    - google-sheets
+    - google-apps-script
+    - google-docs
+    - workflow-automation
+    - process-automation
+    - automation
+    - business-analysis
+    - data-processing
+    - documentation
+    - integrations
+    - platform
+    - productivity
+
 - id: pipedrive-crm-learnig-documentation
   title: Pipedrive CRM Learning Documentation
   short-title: Pipedrive CRM Docs
