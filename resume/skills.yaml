@@ -105,7 +105,7 @@
 
 - id: mysql
   label: MySQL / MariaDB
-  since-year: 2023
+  since-year: 2026
   competency: experienced
 
 - id: n8n
@@ -150,12 +150,12 @@
 
 - id: postgresql
   label: PostgreSQL
-  since-year: 2026
+  since-year: 2025
   competency: experienced
 
 - id: process-analysis
   label: Process Analysis
-  since-year: 2026
+  since-year: 2024
   competency: advanced
 
 - id: process-automation
@@ -184,7 +184,7 @@
 
 - id: responsive-web-design
   label: Responsive Web Design
-  since-year: 2025
+  since-year: 2023
   competency: experienced
 
 - id: role-based-access-control
@@ -209,7 +209,7 @@
 
 - id: technical-documentation
   label: Technical Documentation
-  since-year: 2024
+  since-year: 2026
   competency: experienced
 
 - id: technical-writing
@@ -244,7 +244,7 @@
 
 - id: wordpress
   label: WordPress
-  since-year: 2023
+  since-year: 2026
   competency: experienced
 
 - id: workflow-automation
@@ -269,7 +269,7 @@
 
 - id: backend
   label: Backend Development
-  since-year: 2023
+  since-year: 2024
   competency: advanced
 
 - id: business-analysis
@@ -279,7 +279,7 @@
 
 - id: cms
   label: Content Management Systems (CMS)
-  since-year: 2023
+  since-year: 2026
   competency: experienced
 
 - id: crm-sales
@@ -299,7 +299,7 @@
 
 - id: database
   label: Database Management and Storage
-  since-year: 2023
+  since-year: 2025
   competency: advanced
 
 - id: dev-tools
@@ -309,7 +309,7 @@
 
 - id: devops-infra
   label: DevOps and Infrastructure Management
-  since-year: 2024
+  since-year: 2026
   competency: experienced
 
 - id: documentation
