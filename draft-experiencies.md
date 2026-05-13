@@ -1,0 +1,7 @@
+I worked on the full configuration and administration of **Pipedrive CRM**, adapting the platform to the company’s commercial and operational needs. I was responsible for structuring the CRM end-to-end, from creating forms for registering people and deals to defining the stages of each sales pipeline, ensuring that the sales process was clearly and consistently represented within the tool.
+
+I also supported the **sales operations management** by monitoring deals registered in Pipedrive, analyzing the stage of each opportunity, and making the necessary adjustments to keep the pipeline up to date. This included moving deals between stages, updating information, organizing customer data, and supporting the follow-up of sales opportunities.
+
+In addition, I carried out administrative activities within the CRM, such as adding and organizing customer documents, recording notes, updating the calendar, creating activities, and tracking tasks related to commercial processes. These actions helped centralize information, support the sales team’s workflow, and improve control over each customer interaction or negotiation.
+
+I also contributed to the **training of new salespeople**, teaching the team how to use Pipedrive in practice. For this, I created technical documentation explaining how the platform worked and conducted video calls with salespeople, guiding them through customer registration, deal creation and updates, pipeline usage, activity tracking, and best practices for keeping the CRM organized.

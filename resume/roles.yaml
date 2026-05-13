@@ -93,3 +93,27 @@
     - 'Build end-to-end automations for legal operations, document processing, notifications, and internal process coordination.'
     - 'Use tools such as n8n, databases, APIs, and messaging platforms to orchestrate multi-step operational flows.'
     - 'Improve process reliability by structuring automation logic around real business events, validation rules, and traceable outcomes.'
+
+- id: crm-administrator
+  title: CRM Administrator
+  description:
+    - 'Configure and organize CRM platforms to reflect commercial processes, customer records, forms, and pipeline structures with clarity and consistency.'
+    - 'Adapt CRM environments to operational needs by structuring stages, fields, records, and internal workflows that support day-to-day sales activities.'
+    - 'Maintain data quality, platform organization, and process visibility so teams can manage customer interactions and opportunities more effectively.'
+    - 'Support business operations by turning the CRM into a reliable system for tracking deals, information, and commercial activity.'
+
+- id: sales-operations-specialist
+  title: Sales Operations Specialist
+  description:
+    - 'Support sales operations by maintaining pipelines, updating deal stages, organizing customer records, and keeping commercial information accurate inside the CRM.'
+    - 'Make operational adjustments that improve follow-up, visibility, and process control.'
+    - 'Handle administrative CRM activities such as notes, documents, tasks, calendars, and activity tracking to centralize information for the sales team.'
+    - 'Contribute to smoother commercial workflows by keeping the system current, structured, and aligned with team routines.'
+
+- id: crm-trainer
+  title: CRM Trainer
+  description:
+    - 'Train teams to use CRM platforms effectively in their daily workflow through practical guidance, onboarding support, and structured explanations.'
+    - 'Create learning materials and walkthroughs that explain customer registration, deal management, pipeline usage, activity tracking, and platform organization.'
+    - 'Guide users through real scenarios to improve consistency in platform usage and reduce operational confusion.'
+    - 'Strengthen adoption of CRM processes by combining documentation with direct user support and training sessions.'
