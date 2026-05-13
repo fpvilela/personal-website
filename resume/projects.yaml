@@ -157,6 +157,7 @@
     - python
     - microsoft-graph-api
     - onedrive
+    - authentication
     - msal
     - oauth
     - api-integration
