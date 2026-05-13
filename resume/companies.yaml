@@ -1,9 +1,31 @@
   - id: rosh
     company: ROSH Tecnologia
-    url: 'https://roshtecnologia.com.br/'
+    links:
+      - name: Website
+        url: 'https://roshtecnologia.com.br/'
+      - name: Instagram
+        url: 'https://www.instagram.com/roshtecnologia.com.br/'
     location: Brasília, DF, Brasil
+
+  - id: woont
+    company: Woont.co
+    links:
+      - name: Instagram
+        url: https://www.instagram.com/woont.co/
+    location: Brasília, DF, Brasíl
 
   - id: vistocerto
     company: Seu Visto Certo
-    url: 'https://seuvistocerto.com/'
-    location: Willon Partk, TX, US
+    links:
+      - name: Website
+        url: 'https://seuvistocerto.com/'
+      - name: Instagram
+        url: 'https://www.instagram.com/seuvistocerto/'
+    location: Willow Park, TX, US
+
+  - id: vzion
+    company: Vzion Corporation
+    links:
+      - name: Instagram
+        url: 'https://www.instagram.com/vzion.corp/'
+    location: Brasília, DF, Brasíl
