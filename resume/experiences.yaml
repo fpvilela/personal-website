@@ -35,6 +35,7 @@
   projects:
     - onedrive-pdf-data-extractor
     - sales-information-management-system
+    - lead-to-deal-automation
 
 - title: Pipedrive CRM Administrator
   company: vistocerto

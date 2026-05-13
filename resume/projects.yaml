@@ -207,6 +207,31 @@
     - platform
     - productivity
 
+- id: lead-to-deal-automation
+  title: Lead-to-Deal Automation System
+  short-title: Lead-to-Deal System
+  year: 2024
+  summary: 'Developed an automation workflow connecting Google Forms, Zapier, and Pipedrive CRM to standardize lead intake, reduce manual entry, and accelerate sales operations.'
+  bullets:
+    - 'Built a Google Forms-based intake process to collect the required information at the beginning of the sales workflow in a more standardized format.'
+    - 'Configured a Zapier automation to receive submitted form data and orchestrate the integration flow with Pipedrive CRM.'
+    - 'Implemented validation logic to check whether a person already existed in the CRM before creating a new record, reducing duplicate contacts.'
+    - 'Automated deal creation in Pipedrive, linked each deal to the corresponding contact, and assigned it to the correct pipeline stage based on the submitted information.'
+    - 'Improved sales workflow efficiency by reducing repetitive manual tasks and making contact and deal registration more consistent and organized.'
+  skills:
+    - google-forms
+    - zapier
+    - pipedrive-crm
+    - workflow-automation
+    - api-integration
+    - lead-management
+    - sales-pipeline-management
+    - automation
+    - crm-sales
+    - integrations
+    - platform
+    - productivity
+
 - id: pipedrive-crm-learnig-documentation
   title: Pipedrive CRM Learning Documentation
   short-title: Pipedrive CRM Docs

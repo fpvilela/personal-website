@@ -257,6 +257,11 @@
   since-year: 2025
   competency: experienced
 
+- id: zapier
+  label: Zapier
+  since-year: 2024
+  competency: experienced
+
 - id: wordpress
   label: WordPress
   since-year: 2026
