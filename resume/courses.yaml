@@ -8,7 +8,7 @@ css-course:
 
 javascript-course:
   title: 'JavaScript - The Complete Guide (Beginner + Advanced)'
-  description: 'Curso completo de JavaScript abordando desde fundamentos da linguagem até recursos avançados, incluindo variáveis, funções, objetos, arrays, DOM, eventos, programação assíncrona, requisições HTTP, orientação a objetos, testes, segurança, performance e deploy.'
+  description: 'A comprehensive JavaScript course covering everything from language fundamentals to advanced features, including variables, functions, objects, arrays, DOM, events, asynchronous programming, HTTP requests, object-oriented programming, testing, security, performance, and deployment.'
   links:
     - label: 'Course tracking repository'
       icon: 'mdi:github'
