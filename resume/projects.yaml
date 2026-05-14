@@ -81,6 +81,63 @@
     - ui-ux
     - webdev
 
+- id: communit-hub
+  title: Communit Hub Communication Platform
+  short-title: Communit Hub
+  year: 2026
+  summary: 'Contributed to the development of Communit Hub, a centralized communication and operations platform designed to help teams manage WhatsApp, email, and internal workflows from a single panel.'
+  bullets:
+    - 'Implemented core authentication flows with Supabase, including user profile creation, authenticated route protection, and improvements to the login and sign-up experience.'
+    - 'Applied security policies with Row Level Security to support controlled access to operational data across the platform.'
+    - 'Developed key parts of the email module, including IMAP and SMTP account configuration, inbox and sent views, message reading, attachment handling, inline image rendering, and automatic IMAP folder detection.'
+  skills:
+    - javascript
+    - typescript
+    - react
+    - tailwind-css
+    - nodejs
+    - express
+    - supabase
+    - authentication
+    - auth-security
+    - api-integration
+    - backend
+    - database
+    - integrations
+    - ui-development
+    - dev-tools
+    - platform
+    - prog-lang
+    - webdev
+
+- id: real-estate-multi-agent
+  title: Real Estate WhatsApp Multi-Agent Support System
+  short-title: Real Estate Multi-Agent System
+  year: 2026
+  summary: 'Developed a multi-agent WhatsApp support system for a real estate company, routing conversations between specialized AI assistants for commercial, legal, and financial service.'
+  bullets:
+    - 'I designed a multi-agent customer service flow with three specialized assistants, each responsible for a different business area.'
+    - 'Implemented a central routing agent that analyzed incoming conversations and directed each client interaction to the appropriate specialist agent based on context and intent.'
+    - 'Connected the commercial agent to the Superlogica API to keep property information synchronized and available during sales conversations.'
+    - 'Integrated the legal and financial agents with client-provided databases so each assistant could respond with domain-specific information when needed.'
+    - 'Built a coordinated WhatsApp support experience that allowed the agents to collaborate within the same conversation according to the operational needs of the client.'
+  skills:
+    - n8n
+    - artificial-intelligence
+    - openai
+    - whatsapp-api
+    - chatbot-development
+    - workflow-automation
+    - api-integration
+    - webhooks
+    - automation
+    - backend
+    - data-processing
+    - database
+    - integrations
+    - platform
+    - prog-lang
+
 - id: legal-automation
   title: Legal Automation for Law Firms
   short-title: Legal Automation

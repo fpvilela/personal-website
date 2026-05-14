@@ -58,6 +58,11 @@
   since-year: 2024
   competency: advanced
 
+- id: express
+  label: Express
+  since-year: 2026
+  competency: experienced
+
 - id: git
   label: Git
   since-year: 2023
@@ -128,6 +133,11 @@
   since-year: 2025
   competency: advanced
 
+- id: nodejs
+  label: Node.js
+  since-year: 2026
+  competency: experienced
+
 - id: oauth
   label: OAuth
   since-year: 2024
@@ -182,6 +192,12 @@
   label: Python
   since-year: 2024
   competency: experienced
+
+- id: react
+  label: React
+  since-year: 2026
+  competency: experienced
+  
 - id: regex
   label: Regular Expressions
   since-year: 2024
@@ -222,6 +238,11 @@
   since-year: 2025
   competency: advanced
 
+- id: tailwind-css
+  label: Tailwind CSS
+  since-year: 2026
+  competency: experienced
+
 - id: technical-documentation
   label: Technical Documentation
   since-year: 2026
@@ -230,6 +251,11 @@
 - id: technical-writing
   label: Technical Writing
   since-year: 2024
+  competency: experienced
+
+- id: typescript
+  label: TypeScript
+  since-year: 2026
   competency: experienced
 
 - id: ui-development
