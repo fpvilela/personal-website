@@ -1,4 +1,4 @@
-css-course:
+- id: css-complete-guide
   title: 'CSS - The Complete Guide'
   description: 'Complete CSS course covering styling fundamentals, box model, selectors, positioning, backgrounds, responsiveness, Flexbox, Grid, animations, cross-browser compatibility, BEM, and an introduction to Sass.'
   note: 'Completed all coursework credits.'
@@ -9,7 +9,7 @@ css-course:
       icon: 'mdi:github'
       url: 'https://github.com/fpvilela/css-complete-guide'
 
-javascript-course:
+- id: js-complete-guide
   title: 'JavaScript - The Complete Guide (Beginner + Advanced)'
   description: 'A comprehensive JavaScript course covering everything from language fundamentals to advanced features, including variables, functions, objects, arrays, DOM, events, asynchronous programming, HTTP requests, object-oriented programming, testing, security, performance, and deployment.'
   note: 'Completed all coursework credits.'
@@ -20,9 +20,10 @@ javascript-course:
       icon: 'mdi:github'
       url: 'https://github.com/fpvilela/js-complete-guide'
 
-svelte-course:
-  title: 'Svelte Tutorial' [Incomplete]
+- id: svelte-tutorial
+  title: 'Svelte Tutorial'
   description: 'A tutorial to create high-performance, small-sized web applications of all sizes.'
+  note: 'Incomplete.'
   links:
     - label: 'Tutorial website'
       url: 'https://svelte.dev/tutorial/svelte/welcome-to-svelte'
