@@ -31,21 +31,14 @@
     - workflow-automation-developer
     - api-integration-specialist
     - document-automation-developer
-    - technical-documentation-specialist
-  projects:
-    - onedrive-pdf-data-extractor
-    - sales-information-management-system
-    - lead-to-deal-automation
-
-- title: Pipedrive CRM Administrator
-  company: vistocerto
-  date-of-employment: 12/2023 - 11/2025
-  roles:
     - crm-administrator
     - sales-operations-specialist
     - crm-trainer
     - technical-documentation-specialist
   projects:
+    - onedrive-pdf-data-extractor
+    - sales-information-management-system
+    - lead-to-deal-automation
     - pipedrive-crm-learnig-documentation
 
 - title: Front-end Developer
