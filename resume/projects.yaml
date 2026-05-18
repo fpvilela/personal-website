@@ -171,6 +171,32 @@
     - platform
     - prog-lang
 
+- id: google-alerts-whatsapp-content-automation
+  title: Google Alerts to WhatsApp Content Automation
+  short-title: Alerts to WhatsApp Automation
+  year: 2025
+  summary: 'Built a semi-automated content monitoring workflow that captures Google Alerts emails, extracts relevant news, categorizes them by topic, stores structured data in Google Sheets, and prepares formatted messages for WhatsApp channels.'
+  bullets:
+    - 'Configured Google Alerts and Gmail labels to centralize monitored news emails based on strategic keywords.'
+    - 'Built a Zapier workflow to detect new Google Alerts emails, extract the monitored keyword, map it to a content theme, and process each detected news item.'
+    - 'Used custom JavaScript inside Zapier to parse unstructured Google Alerts email content and extract structured news titles and URLs.'
+    - 'Inserted categorized news into Google Sheets with fields such as theme, keyword, title, link, date, message text, and WhatsApp channel link.'
+    - 'Developed Google Apps Script logic to enrich and format spreadsheet rows, generate WhatsApp-ready message notes, create clickable links, and improve spreadsheet readability.'
+    - 'Designed the workflow as a semi-automated process to support human review before sharing content, reducing noise and avoiding repeated or irrelevant messages.'
+  skills:
+    - zapier
+    - google-sheets
+    - google-apps-script
+    - javascript
+    - workflow-automation
+    - process-automation
+    - automation
+    - data-processing
+    - integrations
+    - platform
+    - productivity
+    - prog-lang
+
 - id: youtube-channel
   title: Programming Learning YouTube Channel
   short-title: YouTube Programming Channel
