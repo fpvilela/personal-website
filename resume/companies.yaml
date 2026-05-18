@@ -29,3 +29,11 @@
       - name: Instagram
         url: 'https://www.instagram.com/vzion.corp/'
     location: Brasília, DF, Brasíl
+
+  - id: personal-projects
+    company: Personal Initiatives and Projects
+    short-name: Personal
+    links:
+      - icon: 'mdi:github'
+        url: 'https://github.com/fpvilela'
+    location: Brasília, DF, Brasíl

@@ -11,7 +11,6 @@
     - connecta-moveis-website
     - traje-fino-website
     - track-day-wordpress
-    - communit-hub
 
 - title: n8n Developer
   company: woont
@@ -24,6 +23,19 @@
   projects:
     - legal-automation
     - real-estate-multi-agent
+
+- title: Personal Projects & Technical Learning
+  company: personal-projects
+  date-of-employment: 10/2024 - Present
+  roles:
+    - full-stack-developer
+    - frontend-developer
+    - workflow-automation-developer
+    - api-integration-specialist
+  projects:
+    - communit-hub
+    - google-alerts-whatsapp-content-automation
+    - youtube-channel
 
 - title: Back-end Developer
   company: vistocerto
