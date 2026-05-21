@@ -1,0 +1,12 @@
+- Navbar with sections of site
+- Contact
+- About me
+- Education Section
+- Companies Section
+- Experiences Section
+- Projects Section
+- Projects Page
+- Skills Section with competencies levels.
+- Role Section
+- Courses Section
+- Resume Page
