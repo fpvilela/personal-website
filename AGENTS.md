@@ -7,3 +7,4 @@
 ## Website Specification Discussions
 
 -   Whenever discussing website specifications, always review `specs/references.md` and identify the most suitable reference pattern or example for the current case, while adapting it to the project's actual needs instead of copying it directly.
+-   Whenever adding or updating specification content in the project during these discussions, write it in English.

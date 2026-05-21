@@ -1,6 +1,6 @@
-# Rascunho Atual
+# Current Draft
 
-## Estrutura proposta da `Home`
+## Proposed `Home` Structure
 
 1. `Hero`
 2. `About Me`
@@ -13,22 +13,22 @@
 9. `Courses`
 10. `Contact`
 
-## Em discussão
+## Under Discussion
 
-- `Roles` como `section` da `Home`.
-- `Companies` como `section` da `Home`.
-- `Projects` como `section` da `Home`.
-- `Courses` como `section` da `Home`.
-- `Contact` como `section` da `Home` ou bloco auxiliar.
-- Navegação lateral vertical auxiliar na `Home`.
+- `Roles` as a `Home` section.
+- `Companies` as a `Home` section.
+- `Projects` as a `Home` section.
+- `Courses` as a `Home` section.
+- `Contact` as a `Home` section or auxiliary block.
+- Auxiliary vertical side navigation in `Home`.
 
-## Ainda não abordamos
+## Not Addressed Yet
 
-- Estrutura de `Roles`.
-- Estrutura de `Companies`.
-- Estrutura de `Projects`.
-- Estrutura de `Skills`.
-- Estrutura de `Education`.
-- Estrutura de `Courses`.
-- Estrutura de `Contact`.
-- Itens finais da `Navbar`.
+- `Roles` structure.
+- `Companies` structure.
+- `Projects` structure.
+- `Skills` structure.
+- `Education` structure.
+- `Courses` structure.
+- `Contact` structure.
+- Final `Navbar` items.

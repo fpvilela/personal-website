@@ -1,42 +1,42 @@
-# Decisões Confirmadas
+# Confirmed Decisions
 
-## Direção do Site
+## Site Direction
 
-- O site seguirá a direção de currículo interativo.
-- O site não seguirá a direção de portfólio comercial tradicional.
-- A `Home` será a página principal da experiência.
+- The site will follow an interactive resume direction.
+- The site will not follow a traditional commercial portfolio direction.
+- `Home` will be the main page of the experience.
 
-## Páginas do Site
+## Site Pages
 
-- O site terá três páginas:
+- The site will have three pages:
   - `Home`
   - `Projects`
   - `Resume`
 
-## Navegação
+## Navigation
 
-- O site terá `Navbar` como elemento principal de navegação.
+- The site will have a `Navbar` as its main navigation element.
 
 ## Hero
 
-- A `Home` terá uma `Hero`.
-- A `Hero` terá três CTAs:
-  - `Ver projetos`
-  - `Ver currículo`
-  - Um CTA para conversar com IA
-- O CTA de conversa com IA será voltado para um assistente de currículo.
-- O assistente de currículo não terá proposta de chatbot genérico.
+- `Home` will have a `Hero`.
+- The `Hero` will have three CTAs:
+  - `View Projects`
+  - `View Resume`
+  - A CTA to talk to AI
+- The AI conversation CTA will be aimed at a resume assistant.
+- The resume assistant will not be designed as a generic chatbot.
 
 ## About Me
 
-- A `Home` terá uma `section` `About Me`.
-- A `section` `About Me` ficará logo após a `Hero`.
+- `Home` will have an `About Me` section.
+- The `About Me` section will be placed right after the `Hero`.
 
 ## Experiences
 
-- A `Home` terá uma `section` `Experiences`.
-- A `section` `Experiences` ficará logo após `About Me`.
-- A `section` `Experiences` será o núcleo principal da leitura da trajetória profissional.
-- A `section` `Experiences` será estruturada como uma linha temporal vertical.
-- Cada item de `Experiences` será nomeado pelo título da própria experiência, com base em `resume/experiences.yaml`.
-- Cada item de `Experiences` terá empresa, papéis e projetos como elementos relacionados.
+- `Home` will have an `Experiences` section.
+- The `Experiences` section will be placed right after `About Me`.
+- The `Experiences` section will be the main core of the professional journey reading flow.
+- The `Experiences` section will be structured as a vertical timeline.
+- Each `Experiences` item will be named after the experience title itself, based on `resume/experiences.yaml`.
+- Each `Experiences` item will include company, roles, and projects as related elements.
