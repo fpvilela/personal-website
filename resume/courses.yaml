@@ -23,7 +23,7 @@
 - id: svelte-tutorial
   title: 'Svelte Tutorial'
   description: 'A tutorial to create high-performance, small-sized web applications of all sizes.'
-  note: 'Incomplete.'
+  note: 'Completed.'
   links:
     - label: 'Tutorial website'
       url: 'https://svelte.dev/tutorial/svelte/welcome-to-svelte'
