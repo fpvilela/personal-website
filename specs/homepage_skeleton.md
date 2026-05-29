@@ -316,8 +316,6 @@
     - `#typescript`
     - `#php`
     - `#python`
-  - Group title: Frameworks and UI.
-  - Items:
     - `#react`
     - `#nodejs`
     - `#express`
@@ -326,15 +324,15 @@
     - `#tailwind-css`
     - `#bootstrap`
     - `#responsive-web-design`
-  - Group title: Database and Platforms.
+  - Group title: Database.
   - Items:
     - `#mysql`
     - `#postgresql`
     - `#supabase`
+  - Group title: Automation and Platforms.
+  - Items:
     - `#n8n`
     - `#zapier`
-  - Group title: Automation.
-  - Items:
     - `#process-automation`
     - `#document-automation`
     - `#data-extraction`
@@ -356,12 +354,12 @@
     - `#google-apps-script`
     - `#google-docs`
     - `#pipedrive-crm`
-  - Group title: AI and Conversational Systems.
+  - Group title: AI and Chatbots.
   - Items:
     - `#artificial-intelligence`
     - `#openai`
     - `#chatbot-development`
-  - Group title: DevOps and Delivery.
+  - Group title: DevOps and Tools.
   - Items:
     - `#git`
     - `#github`
@@ -369,7 +367,7 @@
     - `#docker`
     - `#deployment`
     - `#ssh`
-  - Group title: Professional Skills.
+  - Group title: Applied Skills.
   - Items:
     - `#authentication`
     - `#role-based-access-control`

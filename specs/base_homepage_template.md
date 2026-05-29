@@ -209,14 +209,13 @@
     - [language]: [proficiency]
 
   Example structural form:
-  - Development: #html, #css, #javascript, #typescript, #php, #python
-  - Frameworks and UI: #react, #nodejs, #express, #wordpress, #tailwind-css
-  - Database and Platforms: #mysql, #postgresql, #supabase, #n8n, #zapier
-  - Automation: #process-automation, #document-automation, #data-extraction, #pdf-parsing
+  - Development: #html, #css, #javascript, #typescript, #php, #python, #react, #nodejs, #express, #wordpress, #tailwind-css
+  - Database: #mysql, #postgresql, #supabase
+  - Automation and Platforms: #n8n, #zapier, #process-automation, #document-automation, #data-extraction, #pdf-parsing
   - Integrations: #api-integration, #microsoft-graph-api, #oauth, #google-apps-script, #pipedrive-crm
-  - AI and Conversational Systems: #artificial-intelligence, #openai, #chatbot-development
-  - DevOps and Delivery: #git, #github, #docker, #deployment, #ssh
-  - Professional Skills: #authentication, #requirements-analysis, #technical-documentation, #sales-pipeline-management
+  - AI and Chatbots: #artificial-intelligence, #openai, #chatbot-development
+  - DevOps and Tools: #git, #github, #docker, #deployment, #ssh
+  - Applied Skills: #authentication, #requirements-analysis, #technical-documentation, #sales-pipeline-management
   - Languages:
     - Portuguese: native
     - English: professional
