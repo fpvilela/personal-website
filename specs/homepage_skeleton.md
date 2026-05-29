@@ -307,80 +307,85 @@
 ## Skills and Languages
 
 - Section heading: Skills and Languages.
+- Competency legend:
+  - ○ Beginner.
+  - ● Experienced.
+  - ◆ Advanced.
+  - ■ Expert.
 - Skill groups:
   - Group title: Development.
   - Items:
-    - HTML.
-    - CSS.
-    - JavaScript.
-    - TypeScript.
-    - PHP.
-    - Python.
-    - React.
-    - Node.js.
-    - Express.
-    - WordPress.
-    - CMS.
-    - Tailwind CSS.
-    - Bootstrap.
-    - Responsive Web Design.
+    - HTML ●.
+    - CSS ●.
+    - JavaScript ●.
+    - TypeScript ●.
+    - PHP ●.
+    - Python ●.
+    - React ●.
+    - Node.js ●.
+    - Express ●.
+    - WordPress ●.
+    - CMS ◆.
+    - Tailwind CSS ●.
+    - Bootstrap ●.
+    - Responsive Web Design ●.
   - Group title: Database.
   - Items:
-    - MySQL / MariaDB.
-    - PostgreSQL.
-    - Supabase.
+    - MySQL / MariaDB ●.
+    - PostgreSQL ●.
+    - Supabase ◆.
   - Group title: Automation and Platforms.
   - Items:
-    - n8n.
-    - Zapier.
-    - Process Automation.
-    - Document Automation.
-    - Data Extraction.
-    - Data Analysis Language.
-    - PDF Parsing.
-    - pdfplumber.
-    - Regular Expressions.
-    - Productivity.
+    - n8n ◆.
+    - Zapier ●.
+    - Process Automation ◆.
+    - Document Automation ◆.
+    - Data Extraction ◆.
+    - Data Analysis Language ◆.
+    - PDF Parsing ●.
+    - pdfplumber ●.
+    - Regular Expressions ●.
+    - Productivity Tools ◆.
   - Group title: Integrations.
   - Items:
-    - API Integration.
-    - Microsoft Graph API.
-    - Microsoft Authentication Library (MSAL).
-    - OAuth.
-    - OneDrive.
-    - Python Requests.
-    - Google Sheets.
-    - Google Forms.
-    - Google Apps Script.
-    - Google Docs.
-    - Pipedrive CRM.
+    - API Integration ◆.
+    - Microsoft Graph API ●.
+    - Microsoft Authentication Library (MSAL) ●.
+    - OAuth ●.
+    - OneDrive ●.
+    - Python Requests ●.
+    - Google Sheets ◆.
+    - Google Forms ●.
+    - Google Apps Script ●.
+    - Google Docs ●.
+    - Pipedrive CRM ◆.
   - Group title: AI and Chatbots.
   - Items:
-    - Artificial Intelligence.
-    - OpenAI API.
-    - Chatbot Development.
+    - Artificial Intelligence ◆.
+    - OpenAI API ◆.
+    - Chatbot Development ●.
   - Group title: DevOps and Tools.
   - Items:
-    - Git.
-    - GitHub.
-    - GitLab.
-    - Docker.
-    - Deployment.
-    - SSH.
+    - Git ■.
+    - GitHub ■.
+    - GitLab ◆.
+    - Docker ●.
+    - Deployment ◆.
+    - SSH ◆.
   - Group title: Applied Skills.
   - Items:
-    - Authentication.
-    - Role-Based Access Control (RBAC).
-    - Requirements Analysis.
-    - Process Analysis.
-    - Business Analysis.
-    - Business Process Mapping.
-    - Technical Documentation.
-    - Technical Writing.
-    - Lead Management.
-    - Deal Management.
-    - Sales Pipeline Management.
-    - CRM Sales.
+    - Authentication ●.
+    - Role-Based Access Control (RBAC) ●.
+    - Requirements Analysis ●.
+    - Process Analysis ◆.
+    - Business Analysis ◆.
+    - Business Process Mapping ●.
+    - Technical Documentation ●.
+    - Technical Writing ●.
+    - Lead Management ●.
+    - Deal Management ●.
+    - Sales Pipeline Management ◆.
+    - CRM Sales ◆.
 - Languages subsection:
   - Portuguese: native.
   - English: intermediate.

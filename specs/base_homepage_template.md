@@ -190,32 +190,44 @@
   The recommended direction is a hybrid of the editorial grouping seen in `santifer.io` and the fuller stack visibility seen in `jrdan.dev`.
   Languages should remain as an internal subgroup instead of becoming a standalone section.
   Skills should be rendered as compact grouped blocks, ideally as chips or short inline tags inside each category, not as descriptive bullets or individual cards.
+  Skills on the homepage should not show `since-year`.
+  Skill competency should be shown in a lightweight way through a competency marker per skill, supported by a single legend for the section.
 
   Structure:
   - Section heading: Skills and Languages
+  - Competency legend:
+    - [marker] Beginner
+    - [marker] Experienced
+    - [marker] Advanced
+    - [marker] Expert
   - Skill groups:
     - Group title: [category name]
     - Items:
-      - [skill label]
-      - [skill label]
-      - [skill label]
+      - [skill label] + [competency marker]
+      - [skill label] + [competency marker]
+      - [skill label] + [competency marker]
     - Group title: [category name]
     - Items:
-      - [skill label]
-      - [skill label]
-      - [skill label]
+      - [skill label] + [competency marker]
+      - [skill label] + [competency marker]
+      - [skill label] + [competency marker]
   - Languages subgroup:
     - [language]: [proficiency]
     - [language]: [proficiency]
 
   Example structural form:
-  - Development: HTML, CSS, JavaScript, TypeScript, PHP, Python, React, Node.js, Express, WordPress, Tailwind CSS
-  - Database: MySQL / MariaDB, PostgreSQL, Supabase
-  - Automation and Platforms: n8n, Zapier, Process Automation, Document Automation, Data Extraction, PDF Parsing
-  - Integrations: API Integration, Microsoft Graph API, OAuth, Google Apps Script, Pipedrive CRM
-  - AI and Chatbots: Artificial Intelligence, OpenAI API, Chatbot Development
-  - DevOps and Tools: Git, GitHub, Docker, Deployment, SSH
-  - Applied Skills: Authentication, Requirements Analysis, Technical Documentation, Sales Pipeline Management
+  - Legend:
+    - ○ Beginner
+    - ● Experienced
+    - ◆ Advanced
+    - ■ Expert
+  - Development: HTML ●, CSS ●, JavaScript ●, TypeScript ●, PHP ●, Python ●
+  - Database: MySQL / MariaDB ●, PostgreSQL ●, Supabase ◆
+  - Automation and Platforms: n8n ◆, Zapier ●, Process Automation ◆, Document Automation ◆
+  - Integrations: API Integration ◆, Microsoft Graph API ●, OAuth ●, Google Apps Script ●
+  - AI and Chatbots: Artificial Intelligence ◆, OpenAI API ◆, Chatbot Development ●
+  - DevOps and Tools: Git ■, GitHub ■, Docker ●, Deployment ◆, SSH ◆
+  - Applied Skills: Authentication ●, Requirements Analysis ●, Technical Documentation ●, Sales Pipeline Management ◆
   - Languages:
     - Portuguese: native
     - English: professional
