@@ -92,6 +92,27 @@
   5. Projects
   This section is a curated homepage list of featured projects. Each item should follow a repeatable editorial structure.
 
+  Selection guidance:
+  - The homepage should feature a limited subset of projects rather than the full archive.
+  - Prefer 4 featured projects for the homepage.
+  - Select projects based on recency, representativeness, and strategic value.
+  - Prioritize work that best demonstrates breadth across web systems, workflow automation, AI-assisted systems, integrations, and product-oriented implementation.
+  - Keep the full project archive for the dedicated projects page.
+
+  Current selection decision for this project:
+  - Connecta Moveis `#connecta-moveis-website`
+  - Real Estate Multi-Agent System `#real-estate-multi-agent`
+  - Legal Automation `#legal-automation`
+  - Communit Hub `#communit-hub`
+
+  Reason for the current selection:
+  - These four projects provide the strongest homepage overview of the current portfolio.
+  - Connecta Moveis represents end-to-end web system delivery with requirements analysis, administration workflows, and deployment.
+  - Real Estate Multi-Agent System highlights a more distinctive AI and multi-agent implementation.
+  - Legal Automation demonstrates workflow automation, messaging, and business-facing AI integrations.
+  - Communit Hub shows collaborative product work in a modern application stack.
+  - Together, they give the homepage a concise but representative mix of web systems, automation, integrations, and platform development.
+
   Structure for each project entry:
   - Project title: [project title]
   - Project reference: #[project-id]
@@ -122,24 +143,53 @@
 
   6. Education
   This section should act as a concise credibility layer rather than a full academic history block.
+  Following the Santifer pattern more closely, the section should be divided into two internal groups:
+  - Education
+  - Courses and Certificates
+
+  6.1 Education
+  This subgroup should contain formal academic education only.
 
   Structure for each education entry:
-  - Degree title: [degree title]
+  - Period or graduation: [period or year]
   - Institution: [university name]
   - Institution link: [URL]
-  - Location: [place]
-  - Period or graduation: [period or year]
-  - Supporting note: [short note about dissertation, monograph, research, or emphasis]
-  - Areas of study: [comma-separated academic areas]
+  - Degree title: [degree title]
+  - Supporting note: [short note about specialization, emphasis, dissertation, monograph, or academic focus]
+  - Location: [place] (optional)
 
   Example structural form:
-  - Bachelor's in Systems Analysis and Development
+  - 2021
   - [institution name]
-  - Graduated: [year]
+  - Bachelor's in Systems Analysis and Development
   - Supporting note: [short academic note]
 
+  6.2 Courses and Certificates
+  This subgroup should contain shorter educational programs, courses, and certifications in a more compact format than formal education.
+
+  Structure for each course or certificate entry:
+  - Year or status: [year, completion state, or in-progress state]
+  - Provider: [organization, school, or platform]
+  - Title: [course or certificate title]
+  - Supporting note: [short note about scope, completion, or relevance]
+  - Links:
+    - [link label] -> [URL]
+    - [link label] -> [URL]
+
+  Example structural form:
+  - Completed
+  - Udemy
+  - CSS - The Complete Guide
+  - Supporting note: Completed all coursework credits.
+  - Links:
+    - Official website -> [URL]
+    - Tracking repository -> [URL]
+
   7. Skills and Languages
-  This section should present capabilities compactly. Languages should remain as an internal subgroup instead of becoming a standalone section.
+  This section should present the full skill inventory in a compact and scannable way.
+  The recommended direction is a hybrid of the editorial grouping seen in `santifer.io` and the fuller stack visibility seen in `jrdan.dev`.
+  Languages should remain as an internal subgroup instead of becoming a standalone section.
+  Skills should be rendered as compact grouped blocks, ideally as chips or short inline tags inside each category, not as descriptive bullets or individual cards.
 
   Structure:
   - Section heading: Skills and Languages
@@ -159,8 +209,14 @@
     - [language]: [proficiency]
 
   Example structural form:
-  - Core stack: #php, #python, #javascript, #mysql
-  - Platforms and tools: #docker, #supabase, #n8n, #wordpress
+  - Development: #html, #css, #javascript, #typescript, #php, #python
+  - Frameworks and UI: #react, #nodejs, #express, #wordpress, #tailwind-css
+  - Database and Platforms: #mysql, #postgresql, #supabase, #n8n, #zapier
+  - Automation: #process-automation, #document-automation, #data-extraction, #pdf-parsing
+  - Integrations: #api-integration, #microsoft-graph-api, #oauth, #google-apps-script, #pipedrive-crm
+  - AI and Conversational Systems: #artificial-intelligence, #openai, #chatbot-development
+  - DevOps and Delivery: #git, #github, #docker, #deployment, #ssh
+  - Professional Skills: #authentication, #requirements-analysis, #technical-documentation, #sales-pipeline-management
   - Languages:
     - Portuguese: native
     - English: professional
