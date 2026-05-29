@@ -236,14 +236,24 @@
 
   8. Closing Contact Block
   This section should be a compact closing block, not a large standalone contact module.
+  It should follow a hybrid direction:
+  - the lightweight closing rhythm of `santifer.io`
+  - the explicit labeled contact-action treatment of `zalt.me/contact`
+  Each contact method should be presented as a distinct labeled action, not only as an icon or a plain inline link.
 
   Structure:
   - Section heading: [short closing heading]
   - Closing statement: [short invitation to contact or collaborate]
   - Contact actions:
-    - [contact method label] -> [contact target]
-    - [contact method label] -> [contact target]
-    - [contact method label] -> [contact target]
+    - Label: [contact method label]
+    - Value: [visible contact value or handle]
+    - Target: [contact target]
+    - Label: [contact method label]
+    - Value: [visible contact value or handle]
+    - Target: [contact target]
+    - Label: [contact method label]
+    - Value: [visible contact value or handle]
+    - Target: [contact target]
   - Optional final CTA:
     - Label: [CTA label]
     - Target: [URL or anchor]
@@ -251,9 +261,15 @@
   Example structural form:
   - Heading: Let's connect
   - Closing statement: Available for web development, automation, and collaboration opportunities.
-  - Email -> mailto:[email]
-  - LinkedIn -> [profile URL]
-  - GitHub -> [profile URL]
+  - Email
+  - Value: [email]
+  - Target: mailto:[email]
+  - LinkedIn
+  - Value: [profile handle or label]
+  - Target: [profile URL]
+  - GitHub
+  - Value: [profile handle or label]
+  - Target: [profile URL]
 
   9. Source Mapping
   This section defines how homepage content should be derived from the resume dataset so the homepage remains consistent with the resume structure.

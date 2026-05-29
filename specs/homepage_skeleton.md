@@ -389,3 +389,18 @@
 - Languages subsection:
   - Portuguese: native.
   - English: intermediate.
+
+## Closing Contact Block
+
+- Section heading: Let’s connect.
+- Closing statement: Available for web development, automation, and collaboration opportunities.
+- Contact actions:
+  - Label: Email.
+  - Value: fpvilela.dev@gmail.com.
+  - Target: mailto:fpvilela.dev@gmail.com
+  - Label: LinkedIn.
+  - Value: /in/fpvilela.
+  - Target: https://www.linkedin.com/in/fpvilela/
+  - Label: GitHub.
+  - Value: github.com/fpvilela.
+  - Target: https://github.com/fpvilela
