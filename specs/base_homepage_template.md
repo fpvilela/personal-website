@@ -192,6 +192,8 @@
   Skills should be rendered as compact grouped blocks, ideally as chips or short inline tags inside each category, not as descriptive bullets or individual cards.
   Skills on the homepage should not show `since-year`.
   Skill competency should be shown in a lightweight way through a competency marker per skill, supported by a single legend for the section.
+  Skill logos should be optional and used only for recognizable tools and technologies.
+  Abstract, operational, or professional skills should remain text-only.
 
   Structure:
   - Section heading: Skills and Languages
@@ -203,14 +205,14 @@
   - Skill groups:
     - Group title: [category name]
     - Items:
-      - [skill label] + [competency marker]
-      - [skill label] + [competency marker]
-      - [skill label] + [competency marker]
+      - [optional skill logo] + [skill label] + [competency marker]
+      - [optional skill logo] + [skill label] + [competency marker]
+      - [optional skill logo] + [skill label] + [competency marker]
     - Group title: [category name]
     - Items:
-      - [skill label] + [competency marker]
-      - [skill label] + [competency marker]
-      - [skill label] + [competency marker]
+      - [optional skill logo] + [skill label] + [competency marker]
+      - [optional skill logo] + [skill label] + [competency marker]
+      - [optional skill logo] + [skill label] + [competency marker]
   - Languages subgroup:
     - [language]: [proficiency]
     - [language]: [proficiency]
@@ -221,12 +223,12 @@
     - ● Experienced
     - ◆ Advanced
     - ■ Expert
-  - Development: HTML ●, CSS ●, JavaScript ●, TypeScript ●, PHP ●, Python ●
-  - Database: MySQL / MariaDB ●, PostgreSQL ●, Supabase ◆
-  - Automation and Platforms: n8n ◆, Zapier ●, Process Automation ◆, Document Automation ◆
-  - Integrations: API Integration ◆, Microsoft Graph API ●, OAuth ●, Google Apps Script ●
-  - AI and Chatbots: Artificial Intelligence ◆, OpenAI API ◆, Chatbot Development ●
-  - DevOps and Tools: Git ■, GitHub ■, Docker ●, Deployment ◆, SSH ◆
+  - Development: [HTML logo] HTML ●, [CSS logo] CSS ●, [JavaScript logo] JavaScript ●, [TypeScript logo] TypeScript ●, [PHP logo] PHP ●, [Python logo] Python ●
+  - Database: [MySQL logo] MySQL / MariaDB ●, [PostgreSQL logo] PostgreSQL ●, [Supabase logo] Supabase ◆
+  - Automation and Platforms: [n8n logo] n8n ◆, [Zapier logo] Zapier ●, Process Automation ◆, Document Automation ◆
+  - Integrations: API Integration ◆, [Microsoft Graph logo] Microsoft Graph API ●, OAuth ●, [Google Apps Script logo] Google Apps Script ●
+  - AI and Chatbots: Artificial Intelligence ◆, [OpenAI logo] OpenAI API ◆, Chatbot Development ●
+  - DevOps and Tools: [Git logo] Git ■, [GitHub logo] GitHub ■, [Docker logo] Docker ●, Deployment ◆, [SSH icon] SSH ◆
   - Applied Skills: Authentication ●, Requirements Analysis ●, Technical Documentation ●, Sales Pipeline Management ◆
   - Languages:
     - Portuguese: native

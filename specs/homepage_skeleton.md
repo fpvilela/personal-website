@@ -315,29 +315,29 @@
 - Skill groups:
   - Group title: Development.
   - Items:
-    - HTML ●.
-    - CSS ●.
-    - JavaScript ●.
-    - TypeScript ●.
-    - PHP ●.
-    - Python ●.
-    - React ●.
-    - Node.js ●.
-    - Express ●.
-    - WordPress ●.
+    - [HTML logo] HTML ●.
+    - [CSS logo] CSS ●.
+    - [JavaScript logo] JavaScript ●.
+    - [TypeScript logo] TypeScript ●.
+    - [PHP logo] PHP ●.
+    - [Python logo] Python ●.
+    - [React logo] React ●.
+    - [Node.js logo] Node.js ●.
+    - [Express logo] Express ●.
+    - [WordPress logo] WordPress ●.
     - CMS ◆.
-    - Tailwind CSS ●.
-    - Bootstrap ●.
+    - [Tailwind CSS logo] Tailwind CSS ●.
+    - [Bootstrap logo] Bootstrap ●.
     - Responsive Web Design ●.
   - Group title: Database.
   - Items:
-    - MySQL / MariaDB ●.
-    - PostgreSQL ●.
-    - Supabase ◆.
+    - [MySQL logo] MySQL / MariaDB ●.
+    - [PostgreSQL logo] PostgreSQL ●.
+    - [Supabase logo] Supabase ◆.
   - Group title: Automation and Platforms.
   - Items:
-    - n8n ◆.
-    - Zapier ●.
+    - [n8n logo] n8n ◆.
+    - [Zapier logo] Zapier ●.
     - Process Automation ◆.
     - Document Automation ◆.
     - Data Extraction ◆.
@@ -349,29 +349,29 @@
   - Group title: Integrations.
   - Items:
     - API Integration ◆.
-    - Microsoft Graph API ●.
+    - [Microsoft Graph logo] Microsoft Graph API ●.
     - Microsoft Authentication Library (MSAL) ●.
     - OAuth ●.
-    - OneDrive ●.
+    - [OneDrive logo] OneDrive ●.
     - Python Requests ●.
-    - Google Sheets ◆.
-    - Google Forms ●.
-    - Google Apps Script ●.
-    - Google Docs ●.
-    - Pipedrive CRM ◆.
+    - [Google Sheets logo] Google Sheets ◆.
+    - [Google Forms logo] Google Forms ●.
+    - [Google Apps Script logo] Google Apps Script ●.
+    - [Google Docs logo] Google Docs ●.
+    - [Pipedrive logo] Pipedrive CRM ◆.
   - Group title: AI and Chatbots.
   - Items:
     - Artificial Intelligence ◆.
-    - OpenAI API ◆.
+    - [OpenAI logo] OpenAI API ◆.
     - Chatbot Development ●.
   - Group title: DevOps and Tools.
   - Items:
-    - Git ■.
-    - GitHub ■.
-    - GitLab ◆.
-    - Docker ●.
+    - [Git logo] Git ■.
+    - [GitHub logo] GitHub ■.
+    - [GitLab logo] GitLab ◆.
+    - [Docker logo] Docker ●.
     - Deployment ◆.
-    - SSH ◆.
+    - [SSH icon] SSH ◆.
   - Group title: Applied Skills.
   - Items:
     - Authentication ●.
