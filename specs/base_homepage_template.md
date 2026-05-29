@@ -126,9 +126,9 @@
     - [link label] -> [URL]
     - [link label] -> [URL]
   - Skills:
-    - #[skill-id]
-    - #[skill-id]
-    - #[skill-id]
+    - [skill label]
+    - [skill label]
+    - [skill label]
 
   Example structural form:
   - Connecta Moveis  #connecta-moveis-website
@@ -139,7 +139,7 @@
     - Implemented image handling and access control.
     - Deployed the project to production hosting.
   - Links: [optional]
-  - Skills: #php, #mysql, #docker
+  - Skills: PHP, MySQL / MariaDB, Docker
 
   6. Education
   This section should act as a concise credibility layer rather than a full academic history block.
@@ -196,26 +196,26 @@
   - Skill groups:
     - Group title: [category name]
     - Items:
-      - #[skill-id]
-      - #[skill-id]
-      - #[skill-id]
+      - [skill label]
+      - [skill label]
+      - [skill label]
     - Group title: [category name]
     - Items:
-      - #[skill-id]
-      - #[skill-id]
-      - #[skill-id]
+      - [skill label]
+      - [skill label]
+      - [skill label]
   - Languages subgroup:
     - [language]: [proficiency]
     - [language]: [proficiency]
 
   Example structural form:
-  - Development: #html, #css, #javascript, #typescript, #php, #python, #react, #nodejs, #express, #wordpress, #tailwind-css
-  - Database: #mysql, #postgresql, #supabase
-  - Automation and Platforms: #n8n, #zapier, #process-automation, #document-automation, #data-extraction, #pdf-parsing
-  - Integrations: #api-integration, #microsoft-graph-api, #oauth, #google-apps-script, #pipedrive-crm
-  - AI and Chatbots: #artificial-intelligence, #openai, #chatbot-development
-  - DevOps and Tools: #git, #github, #docker, #deployment, #ssh
-  - Applied Skills: #authentication, #requirements-analysis, #technical-documentation, #sales-pipeline-management
+  - Development: HTML, CSS, JavaScript, TypeScript, PHP, Python, React, Node.js, Express, WordPress, Tailwind CSS
+  - Database: MySQL / MariaDB, PostgreSQL, Supabase
+  - Automation and Platforms: n8n, Zapier, Process Automation, Document Automation, Data Extraction, PDF Parsing
+  - Integrations: API Integration, Microsoft Graph API, OAuth, Google Apps Script, Pipedrive CRM
+  - AI and Chatbots: Artificial Intelligence, OpenAI API, Chatbot Development
+  - DevOps and Tools: Git, GitHub, Docker, Deployment, SSH
+  - Applied Skills: Authentication, Requirements Analysis, Technical Documentation, Sales Pipeline Management
   - Languages:
     - Portuguese: native
     - English: professional

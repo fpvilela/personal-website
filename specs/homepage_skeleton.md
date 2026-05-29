@@ -145,32 +145,32 @@
   - Produced internal documentation for deployment, website setup, remote MySQL configuration, and external access.
   - Managed tasks through Kanban boards in Notion and aligned requirements through communication with management and the client.
 - Skills:
-  - `#php`
-  - `#html`
-  - `#css`
-  - `#mysql`
-  - `#docker`
-  - `#git`
-  - `#github`
-  - `#requirements-analysis`
-  - `#use-case-modeling`
-  - `#authentication`
-  - `#role-based-access-control`
-  - `#deployment`
-  - `#ssh`
-  - `#responsive-web-design`
-  - `#web-design`
-  - `#technical-documentation`
-  - `#auth-security`
-  - `#backend`
-  - `#database`
-  - `#dev-tools`
-  - `#devops-infra`
-  - `#documentation`
-  - `#product`
-  - `#prog-lang`
-  - `#ui-ux`
-  - `#webdev`
+  - PHP.
+  - HTML.
+  - CSS.
+  - MySQL / MariaDB.
+  - Docker.
+  - Git.
+  - GitHub.
+  - Requirements Analysis.
+  - Use Case Modeling.
+  - Authentication.
+  - Role-Based Access Control (RBAC).
+  - Deployment.
+  - SSH.
+  - Responsive Web Design.
+  - Web Design.
+  - Technical Documentation.
+  - Authentication and Security.
+  - Backend Development.
+  - Database Management and Storage.
+  - Software Development Tools and Methods.
+  - DevOps and Infrastructure Management.
+  - Documentation.
+  - Product and Requirements.
+  - Programming Language.
+  - UI and UX Design.
+  - Web and Frontend Development.
 
 ### Communit Hub
 
@@ -182,24 +182,24 @@
   - Applied security policies with Row Level Security to support controlled access to operational data across the platform.
   - Developed key parts of the email module, including IMAP and SMTP account configuration, inbox and sent views, message reading, attachment handling, inline image rendering, and automatic IMAP folder detection.
 - Skills:
-  - `#javascript`
-  - `#typescript`
-  - `#react`
-  - `#tailwind-css`
-  - `#nodejs`
-  - `#express`
-  - `#supabase`
-  - `#authentication`
-  - `#auth-security`
-  - `#api-integration`
-  - `#backend`
-  - `#database`
-  - `#integrations`
-  - `#ui-development`
-  - `#dev-tools`
-  - `#platform`
-  - `#prog-lang`
-  - `#webdev`
+  - JavaScript.
+  - TypeScript.
+  - React.
+  - Tailwind CSS.
+  - Node.js.
+  - Express.
+  - Supabase.
+  - Authentication.
+  - Authentication and Security.
+  - API Integration.
+  - Backend Development.
+  - Database Management and Storage.
+  - Systems and API Integrations.
+  - UI Development.
+  - Software Development Tools and Methods.
+  - Platforms and Services.
+  - Programming Language.
+  - Web and Frontend Development.
 
 ### Real Estate Multi-Agent System
 
@@ -213,21 +213,21 @@
   - Integrated the legal and financial agents with client-provided databases so each assistant could respond with domain-specific information when needed.
   - Built a coordinated WhatsApp support experience that allowed the agents to collaborate within the same conversation according to the operational needs of the client.
 - Skills:
-  - `#n8n`
-  - `#artificial-intelligence`
-  - `#openai`
-  - `#whatsapp-api`
-  - `#chatbot-development`
-  - `#workflow-automation`
-  - `#api-integration`
-  - `#webhooks`
-  - `#automation`
-  - `#backend`
-  - `#data-processing`
-  - `#database`
-  - `#integrations`
-  - `#platform`
-  - `#prog-lang`
+  - n8n.
+  - Artificial Intelligence.
+  - OpenAI API.
+  - WhatsApp API.
+  - Chatbot Development.
+  - Workflow Automation.
+  - API Integration.
+  - Webhooks.
+  - Automation.
+  - Backend Development.
+  - Data Processing.
+  - Database Management and Storage.
+  - Systems and API Integrations.
+  - Platforms and Services.
+  - Programming Language.
 
 ### Legal Automation
 
@@ -241,26 +241,26 @@
   - Created WhatsApp-based administrative commands and a legal chatbot with memory to support ongoing client interaction and internal operations.
   - Structured persistent data storage in Supabase and PostgreSQL to support workflow state, message history, and operational control.
 - Skills:
-  - `#n8n`
-  - `#workflow-automation`
-  - `#artificial-intelligence`
-  - `#openai`
-  - `#supabase`
-  - `#postgresql`
-  - `#google-sheets`
-  - `#whatsapp-api`
-  - `#javascript`
-  - `#webhooks`
-  - `#chatbot-development`
-  - `#api-integration`
-  - `#ai-ml`
-  - `#automation`
-  - `#backend`
-  - `#data-processing`
-  - `#database`
-  - `#integrations`
-  - `#platform`
-  - `#prog-lang`
+  - n8n.
+  - Workflow Automation.
+  - Artificial Intelligence.
+  - OpenAI API.
+  - Supabase.
+  - PostgreSQL.
+  - Google Sheets.
+  - WhatsApp API.
+  - JavaScript.
+  - Webhooks.
+  - Chatbot Development.
+  - API Integration.
+  - Artificial Intelligence and Machine Learning.
+  - Automation.
+  - Backend Development.
+  - Data Processing.
+  - Database Management and Storage.
+  - Systems and API Integrations.
+  - Platforms and Services.
+  - Programming Language.
 
 ## Education
 
@@ -310,77 +310,77 @@
 - Skill groups:
   - Group title: Development.
   - Items:
-    - `#html`
-    - `#css`
-    - `#javascript`
-    - `#typescript`
-    - `#php`
-    - `#python`
-    - `#react`
-    - `#nodejs`
-    - `#express`
-    - `#wordpress`
-    - `#cms`
-    - `#tailwind-css`
-    - `#bootstrap`
-    - `#responsive-web-design`
+    - HTML.
+    - CSS.
+    - JavaScript.
+    - TypeScript.
+    - PHP.
+    - Python.
+    - React.
+    - Node.js.
+    - Express.
+    - WordPress.
+    - CMS.
+    - Tailwind CSS.
+    - Bootstrap.
+    - Responsive Web Design.
   - Group title: Database.
   - Items:
-    - `#mysql`
-    - `#postgresql`
-    - `#supabase`
+    - MySQL / MariaDB.
+    - PostgreSQL.
+    - Supabase.
   - Group title: Automation and Platforms.
   - Items:
-    - `#n8n`
-    - `#zapier`
-    - `#process-automation`
-    - `#document-automation`
-    - `#data-extraction`
-    - `#data-analysis-lang`
-    - `#pdf-parsing`
-    - `#pdfplumber`
-    - `#regex`
-    - `#productivity`
+    - n8n.
+    - Zapier.
+    - Process Automation.
+    - Document Automation.
+    - Data Extraction.
+    - Data Analysis Language.
+    - PDF Parsing.
+    - pdfplumber.
+    - Regular Expressions.
+    - Productivity.
   - Group title: Integrations.
   - Items:
-    - `#api-integration`
-    - `#microsoft-graph-api`
-    - `#msal`
-    - `#oauth`
-    - `#onedrive`
-    - `#requests`
-    - `#google-sheets`
-    - `#google-forms`
-    - `#google-apps-script`
-    - `#google-docs`
-    - `#pipedrive-crm`
+    - API Integration.
+    - Microsoft Graph API.
+    - Microsoft Authentication Library (MSAL).
+    - OAuth.
+    - OneDrive.
+    - Python Requests.
+    - Google Sheets.
+    - Google Forms.
+    - Google Apps Script.
+    - Google Docs.
+    - Pipedrive CRM.
   - Group title: AI and Chatbots.
   - Items:
-    - `#artificial-intelligence`
-    - `#openai`
-    - `#chatbot-development`
+    - Artificial Intelligence.
+    - OpenAI API.
+    - Chatbot Development.
   - Group title: DevOps and Tools.
   - Items:
-    - `#git`
-    - `#github`
-    - `#gitlab`
-    - `#docker`
-    - `#deployment`
-    - `#ssh`
+    - Git.
+    - GitHub.
+    - GitLab.
+    - Docker.
+    - Deployment.
+    - SSH.
   - Group title: Applied Skills.
   - Items:
-    - `#authentication`
-    - `#role-based-access-control`
-    - `#requirements-analysis`
-    - `#process-analysis`
-    - `#business-analysis`
-    - `#business-process-mapping`
-    - `#technical-documentation`
-    - `#technical-writing`
-    - `#lead-management`
-    - `#deal-management`
-    - `#sales-pipeline-management`
-    - `#crm-sales`
+    - Authentication.
+    - Role-Based Access Control (RBAC).
+    - Requirements Analysis.
+    - Process Analysis.
+    - Business Analysis.
+    - Business Process Mapping.
+    - Technical Documentation.
+    - Technical Writing.
+    - Lead Management.
+    - Deal Management.
+    - Sales Pipeline Management.
+    - CRM Sales.
 - Languages subsection:
   - Portuguese: native.
   - English: intermediate.
