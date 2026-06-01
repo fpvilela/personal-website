@@ -74,20 +74,20 @@
   - Employment period: [date-of-employment]
   - Short description: [one concise paragraph about scope and responsibilities]
   - Related roles:
-    - #[role-id]
-    - #[role-id]
+    - [role label]
+    - [role label]
   - Related projects:
-    - #[project-id]
-    - #[project-id]
-    - #[project-id]
+    - [project name] -> [project anchor]
+    - [project name] -> [project anchor]
+    - [project name] -> [project anchor]
 
   Example structural form:
   - Full-stack Developer
   - ROSH Tecnologia  #rosh
   - 03/2026 - 05/2026
   - Description: [concise scope summary]
-  - Roles: #full-stack-developer, #frontend-developer
-  - Projects: #connecta-moveis-website, #traje-fino-website
+  - Roles: Full-stack Developer, Front-end Developer
+  - Projects: Connecta Moveis -> #connecta-moveis-website, Traje Fino -> #traje-fino-website
 
   5. Projects
   This section is a curated homepage list of featured projects. Each item should follow a repeatable editorial structure.

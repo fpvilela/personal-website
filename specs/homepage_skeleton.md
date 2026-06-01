@@ -53,15 +53,15 @@
 - Employment period: 03/2026 - 05/2026.
 - Short description: Developed business websites and web systems spanning requirements analysis, front-end implementation, back-end logic, deployment, and WordPress delivery.
 - Related roles:
-  - `#full-stack-developer`
-  - `#frontend-developer`
-  - `#systems-analyst`
-  - `#deployment-specialist`
-  - `#wordpress-developer`
+  - Full-stack Developer.
+  - Front-end Developer.
+  - Systems Analyst.
+  - Deployment Specialist.
+  - WordPress Developer.
 - Related projects:
-  - `#connecta-moveis-website`
-  - `#traje-fino-website`
-  - `#track-day-wordpress`
+  - [Connecta Moveis](#connecta-moveis-website).
+  - [Traje Fino](#traje-fino-website).
+  - [Track Day Landing Page](#track-day-wordpress).
 
 ### n8n Developer
 
@@ -71,13 +71,13 @@
 - Employment period: 12/2025 - 02/2026.
 - Short description: Built automation and conversational systems with n8n, AI services, APIs, and WhatsApp-based workflows for legal and real estate operational use cases.
 - Related roles:
-  - `#workflow-automation-developer`
-  - `#ai-automation-developer`
-  - `#chatbot-developer`
-  - `#api-integration-specialist`
+  - Workflow Automation Developer.
+  - AI Automation Developer.
+  - Chatbot Developer.
+  - API Integration Specialist.
 - Related projects:
-  - `#legal-automation`
-  - `#real-estate-multi-agent`
+  - [Legal Automation](#legal-automation).
+  - [Real Estate Multi-Agent System](#real-estate-multi-agent).
 
 ### Personal Projects & Technical Learning
 
@@ -87,14 +87,14 @@
 - Employment period: 10/2024 - Present.
 - Short description: Developed personal projects focused on full-stack development, automation, integrations, and technical communication while expanding practical experience across products and learning initiatives.
 - Related roles:
-  - `#full-stack-developer`
-  - `#frontend-developer`
-  - `#workflow-automation-developer`
-  - `#api-integration-specialist`
+  - Full-stack Developer.
+  - Front-end Developer.
+  - Workflow Automation Developer.
+  - API Integration Specialist.
 - Related projects:
-  - `#communit-hub`
-  - `#google-alerts-whatsapp-content-automation`
-  - `#youtube-channel`
+  - [Communit Hub](#communit-hub).
+  - [Alerts to WhatsApp Automation](#google-alerts-whatsapp-content-automation).
+  - [YouTube Programming Channel](#youtube-channel).
 
 ### Back-end Developer
 
@@ -104,19 +104,19 @@
 - Employment period: 12/2023 - 11/2025.
 - Short description: Developed backend automations, document processing workflows, CRM support routines, and technical documentation to improve legal and sales operations.
 - Related roles:
-  - `#backend-developer`
-  - `#workflow-automation-developer`
-  - `#api-integration-specialist`
-  - `#document-automation-developer`
-  - `#crm-administrator`
-  - `#sales-operations-specialist`
-  - `#crm-trainer`
-  - `#technical-documentation-specialist`
+  - Back-end Developer.
+  - Workflow Automation Developer.
+  - API Integration Specialist.
+  - Document Automation Developer.
+  - CRM Administrator.
+  - Sales Operations Specialist.
+  - CRM Trainer.
+  - Technical Documentation Specialist.
 - Related projects:
-  - `#onedrive-pdf-data-extractor`
-  - `#sales-information-management-system`
-  - `#lead-to-deal-automation`
-  - `#pipedrive-crm-learnig-documentation`
+  - [OneDrive PDF Extractor](#onedrive-pdf-data-extractor).
+  - [Sales Info System](#sales-information-management-system).
+  - [Lead-to-Deal System](#lead-to-deal-automation).
+  - [Pipedrive CRM Docs](#pipedrive-crm-learnig-documentation).
 
 ### Front-end Developer
 
@@ -126,9 +126,9 @@
 - Employment period: 01/2023 - 06/2023.
 - Short description: Implemented responsive front-end interfaces for a real estate web platform, covering property browsing and core user-facing pages.
 - Related roles:
-  - `#frontend-developer`
+  - Front-end Developer.
 - Related projects:
-  - `#vilela-properties`
+  - [Vilela Properties](#vilela-properties).
 
 ## Projects
 
