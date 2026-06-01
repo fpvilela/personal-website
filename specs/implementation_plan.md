@@ -256,14 +256,7 @@ Entries:
 
 The homepage should show only the selected featured subset, not the full project archive.
 
-Featured homepage projects:
-
-- `Connecta Moveis`
-- `Communit Hub`
-- `Real Estate Multi-Agent System`
-- `Legal Automation`
-
-Each project item should include:
+Structure for each project item:
 
 - Project title
 - Project reference
@@ -272,6 +265,116 @@ Each project item should include:
 - Bullet points
 - Optional links
 - Skills shown as readable labels
+
+Entries:
+
+#### Connecta Moveis
+
+- Project reference: `#connecta-moveis-website`
+- Year: `2026`
+- Summary:
+  - `Developed an end-to-end web system for a corporate furniture catalog, including an administrative panel, product management workflows, and deployment to a production hosting environment.`
+- Bullet points:
+  - `Gathered and organized requirements, and created use cases to guide implementation throughout the project lifecycle.`
+  - `Built the system using PHP, HTML, CSS, and remote MySQL, covering authentication, session management, access control, and CRUD operations for furniture, categories, and images.`
+  - `Implemented image upload workflows with automatic WebP conversion and size standardization to support catalog consistency and performance.`
+  - `Structured the local development environment with Docker and handled deployment to Hostinger through SSH and GitHub.`
+  - `Produced internal documentation for deployment, website setup, remote MySQL configuration, and external access.`
+  - `Managed tasks through Kanban boards in Notion and aligned requirements through communication with management and the client.`
+- Skills:
+  - `PHP`
+  - `HTML`
+  - `CSS`
+  - `MySQL / MariaDB`
+  - `Docker`
+  - `Git`
+  - `GitHub`
+  - `Requirements Analysis`
+  - `Use Case Modeling`
+  - `Authentication`
+  - `Role-Based Access Control (RBAC)`
+  - `Deployment`
+  - `SSH`
+  - `Responsive Web Design`
+  - `Web Design`
+  - `Technical Documentation`
+
+#### Communit Hub
+
+- Project reference: `#communit-hub`
+- Year: `2026`
+- Summary:
+  - `Contributed to the development of Communit Hub, a centralized communication and operations platform designed to help teams manage WhatsApp, email, and internal workflows from a single panel.`
+- Bullet points:
+  - `Implemented core authentication flows with Supabase, including user profile creation, authenticated route protection, and improvements to the login and sign-up experience.`
+  - `Applied security policies with Row Level Security to support controlled access to operational data across the platform.`
+  - `Developed key parts of the email module, including IMAP and SMTP account configuration, inbox and sent views, message reading, attachment handling, inline image rendering, and automatic IMAP folder detection.`
+- Skills:
+  - `JavaScript`
+  - `TypeScript`
+  - `React`
+  - `Tailwind CSS`
+  - `Node.js`
+  - `Express`
+  - `Supabase`
+  - `Authentication`
+  - `API Integration`
+  - `Backend Development`
+  - `Systems and API Integrations`
+  - `UI Development`
+
+#### Real Estate Multi-Agent System
+
+- Project reference: `#real-estate-multi-agent`
+- Year: `2026`
+- Summary:
+  - `Developed a multi-agent WhatsApp support system for a real estate company, routing conversations between specialized AI assistants for commercial, legal, and financial service.`
+- Bullet points:
+  - `Designed a multi-agent customer service flow with three specialized assistants, each responsible for a different business area.`
+  - `Implemented a central routing agent that analyzed incoming conversations and directed each client interaction to the appropriate specialist agent based on context and intent.`
+  - `Connected the commercial agent to the Superlogica API to keep property information synchronized and available during sales conversations.`
+  - `Integrated the legal and financial agents with client-provided databases so each assistant could respond with domain-specific information when needed.`
+  - `Built a coordinated WhatsApp support experience that allowed the agents to collaborate within the same conversation according to the operational needs of the client.`
+- Skills:
+  - `n8n`
+  - `Artificial Intelligence`
+  - `OpenAI API`
+  - `WhatsApp API`
+  - `Chatbot Development`
+  - `Workflow Automation`
+  - `API Integration`
+  - `Webhooks`
+  - `Automation`
+  - `Backend Development`
+  - `Data Processing`
+  - `Systems and API Integrations`
+
+#### Legal Automation
+
+- Project reference: `#legal-automation`
+- Year: `2025`
+- Summary:
+  - `Developed a legal automation system that transformed case updates into humanized communications with clients, automated reminders and billing notifications, and provided chatbot support via WhatsApp.`
+- Bullet points:
+  - `Built an ecosystem of n8n workflows integrating Google Sheets, Supabase, OpenAI, and WhatsApp via Z-API to automate communication between a legal office and its clients.`
+  - `Implemented automated reading and classification of case progress events to trigger context-aware legal messages and operational actions.`
+  - `Developed AI-assisted message generation to produce humanized legal updates, reminders for expert examinations, and billing notifications.`
+  - `Created WhatsApp-based administrative commands and a legal chatbot with memory to support ongoing client interaction and internal operations.`
+  - `Structured persistent data storage in Supabase and PostgreSQL to support workflow state, message history, and operational control.`
+- Skills:
+  - `n8n`
+  - `Workflow Automation`
+  - `Artificial Intelligence`
+  - `OpenAI API`
+  - `Supabase`
+  - `PostgreSQL`
+  - `Google Sheets`
+  - `WhatsApp API`
+  - `JavaScript`
+  - `Webhooks`
+  - `Chatbot Development`
+  - `API Integration`
+  - `Artificial Intelligence and Machine Learning`
 
 ### Education
 
@@ -324,13 +427,85 @@ Competency legend:
 
 Skill groups:
 
-- `Development`
-- `Database`
-- `Automation and Platforms`
-- `Integrations`
-- `AI and Chatbots`
-- `DevOps and Tools`
-- `Applied Skills`
+#### Development
+
+- `HTML` ●
+- `CSS` ●
+- `JavaScript` ●
+- `TypeScript` ●
+- `PHP` ●
+- `Python` ●
+- `React` ●
+- `Node.js` ●
+- `Express` ●
+- `WordPress` ●
+- `CMS` ◆
+- `Tailwind CSS` ●
+- `Bootstrap` ●
+- `Responsive Web Design` ●
+
+#### Database
+
+- `MySQL / MariaDB` ●
+- `PostgreSQL` ●
+- `Supabase` ◆
+
+#### Automation and Platforms
+
+- `n8n` ◆
+- `Zapier` ●
+- `Process Automation` ◆
+- `Document Automation` ◆
+- `Data Extraction` ◆
+- `Data Analysis Language` ◆
+- `PDF Parsing` ●
+- `pdfplumber` ●
+- `Regular Expressions` ●
+- `Productivity Tools` ◆
+
+#### Integrations
+
+- `API Integration` ◆
+- `Microsoft Graph API` ●
+- `Microsoft Authentication Library (MSAL)` ●
+- `OAuth` ●
+- `OneDrive` ●
+- `Python Requests` ●
+- `Google Sheets` ◆
+- `Google Forms` ●
+- `Google Apps Script` ●
+- `Google Docs` ●
+- `Pipedrive CRM` ◆
+
+#### AI and Chatbots
+
+- `Artificial Intelligence` ◆
+- `OpenAI API` ◆
+- `Chatbot Development` ●
+
+#### DevOps and Tools
+
+- `Git` ■
+- `GitHub` ■
+- `GitLab` ◆
+- `Docker` ●
+- `Deployment` ◆
+- `SSH` ◆
+
+#### Applied Skills
+
+- `Authentication` ●
+- `Role-Based Access Control (RBAC)` ●
+- `Requirements Analysis` ●
+- `Process Analysis` ◆
+- `Business Analysis` ◆
+- `Business Process Mapping` ●
+- `Technical Documentation` ●
+- `Technical Writing` ●
+- `Lead Management` ●
+- `Deal Management` ●
+- `Sales Pipeline Management` ◆
+- `CRM Sales` ◆
 
 Languages subsection:
 
@@ -394,15 +569,15 @@ The resume page should follow the structure already defined in the resume skelet
 - Preserve the denser, reference-oriented character of the resume.
 - Keep internal reference fields where they help explain relationships across companies, roles, projects, and skills.
 
-## Projects Page Implementation
+## Projects Page Note
 
-The dedicated `/projects` page should hold the full project archive.
+The dedicated `/projects` page is referenced by the homepage navigation and hero CTA, but its full implementation is out of scope for this document.
 
-Rules:
+For the purposes of this plan:
 
-- The homepage remains curated.
-- The projects page contains the broader complete project list.
-- Project detail structure should remain consistent with the data shape already used in the homepage and resume contexts.
+- the homepage project section remains curated
+- `/projects` is treated as an existing or future route target
+- the complete projects archive page should be specified separately when that implementation enters scope
 
 ## Component Planning
 
